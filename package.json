@@ -1,0 +1,18 @@
+{
+  "name": "apex-fire-safety",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Static product-catalogue website for Apex Fire Safety",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "preview": "node scripts/preview.mjs",
+    "images": "node scripts/download-images.mjs",
+    "migrate": "node scripts/migrate-content.mjs"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "5.1.0",
+    "sharp": "0.33.5"
+  }
+}

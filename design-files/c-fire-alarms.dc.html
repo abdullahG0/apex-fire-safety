@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Fire Alarms</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="CategoryPage" cat="{{ cat }}" hint-size="100%,5200px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":5200}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { cat: {
+      "title": "Fire Alarms",
+      "crumbs": [],
+      "subs": [
+        {
+          "name": "Zone Panels",
+          "page": "c-fire-alarms-zone-panels.dc.html"
+        },
+        {
+          "name": "Loop Panel",
+          "page": "c-fire-alarms-loop-panel.dc.html"
+        },
+        {
+          "name": "Heat Detectors",
+          "page": "c-fire-alarms-heat-detectors.dc.html"
+        },
+        {
+          "name": "Sounders & Flashers",
+          "page": "c-fire-alarms-sounders-flashers.dc.html"
+        },
+        {
+          "name": "Smoke Detectors",
+          "page": "c-fire-alarms-smoke-detectors.dc.html"
+        },
+        {
+          "name": "Call Points",
+          "page": "c-fire-alarms-call-points.dc.html"
+        }
+      ],
+      "groups": [
+        {
+          "title": "Fire alarm systems",
+          "items": [
+            {
+              "name": "Smoke & Heat Detectors (Conventional Fire Alarm Systems)",
+              "page": "p-smoke-heat-detectors-conventional-fire-alarm-systems.dc.html",
+              "price": "",
+              "desc": "Optical smoke and fixed-temperature heat sensors that give early fire warning. Suited to bedrooms, kitchens and garages.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Smoke-Heat-Detectors3.jpg"
+            },
+            {
+              "name": "Conventional Fire Alarm Panels",
+              "page": "p-conventional-fire-alarm-panels.dc.html",
+              "price": "",
+              "desc": "Zoned panels with radial wiring for basic monitoring at small sites, with 2–32 zones and battery backup.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Addressable-Fire-Alarm-Systems.jpg"
+            },
+            {
+              "name": "Addressable Fire Alarm Systems",
+              "page": "p-addressable-fire-alarm-systems.dc.html",
+              "price": "",
+              "desc": "Loop-wired networks for large facilities, where each device has a unique ID for precise location.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/addressable-fire-alram.jpg"
+            },
+            {
+              "name": "Fire Alarm Bells & Sounders",
+              "page": "p-fire-alarm-bells-sounders.dc.html",
+              "price": "",
+              "desc": "Wall- or ceiling-mounted audible alerts for evacuation, with weatherproof options.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Fire-Alarm-Bells-Sounders.jpg"
+            },
+            {
+              "name": "Horn / Strobe Flashers",
+              "page": "p-horn-strobe-flashers.dc.html",
+              "price": "",
+              "desc": "Combined audible and visual units for inclusive alerts, including for hearing-impaired users.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Horn-Strobe-Flashers.jpg"
+            },
+            {
+              "name": "Manual Call Points",
+              "page": "p-manual-call-points.dc.html",
+              "price": "",
+              "desc": "Resettable break-glass stations that trigger alarms manually, rated weatherproof IP67.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Manual-Call-Points.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Zone Panels",
+          "items": [
+            {
+              "name": "2 Zone Panel",
+              "page": "p-2-zone-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/2-Zone-CFP-Panel-context-plus.webp"
+            },
+            {
+              "name": "4 Zone Panel",
+              "page": "p-4-zone-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/4-Zone-CFP-Panel-context.webp"
+            },
+            {
+              "name": "8 Zone Panel",
+              "page": "p-8-zone-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/4-Zone-CFP-Panel-context-1.webp"
+            }
+          ]
+        },
+        {
+          "title": "Loop Panel",
+          "items": [
+            {
+              "name": "Addressable 1 Loop Panel",
+              "page": "p-addressable-1-loop-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-One-Loop-16-Zone-Panel.webp"
+            },
+            {
+              "name": "Addressable 2 Loop Panel",
+              "page": "p-addressable-2-loop-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-Two-Loop-32-Zone-Panel.webp"
+            }
+          ]
+        },
+        {
+          "title": "Heat Detectors",
+          "items": [
+            {
+              "name": "Addressable Heat Detector",
+              "page": "p-addressable-heat-detector.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-Fixed-Temperature-Detector.webp"
+            },
+            {
+              "name": "UL Listed Conventional Heat Detector",
+              "page": "p-ul-listed-conventional-heat-detector.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Conventional-Heat-Detector.webp"
+            }
+          ]
+        },
+        {
+          "title": "Sounders & Flashers",
+          "items": [
+            {
+              "name": "Addressable Sounder Con 430",
+              "page": "p-addressable-sounder-con-430.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/LPCB-Approved-Addressable-Sounder.webp"
+            },
+            {
+              "name": "Addressable Sounder Flasher 58000-011",
+              "page": "p-addressable-sounder-flasher-58000-011.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Context-Plus-Sounder-with-Flasher.webp"
+            },
+            {
+              "name": "Weatherproof Conventional Combined fire Sounder",
+              "page": "p-weatherproof-conventional-combined-fire-sounder.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Conventional-Combined-fire-Sounder.webp"
+            }
+          ]
+        },
+        {
+          "title": "Smoke Detectors",
+          "items": [
+            {
+              "name": "Addressable Smoke Detector",
+              "page": "p-addressable-smoke-detector.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-Optical-Smoke-Detector.webp"
+            },
+            {
+              "name": "UL Listed Conventional Optical Smoke Detector",
+              "page": "p-ul-listed-conventional-optical-smoke-detector.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Conventional-Optical-Smoke-Detector.webp"
+            }
+          ]
+        },
+        {
+          "title": "Call Points",
+          "items": [
+            {
+              "name": "Addressable Manual Call Point",
+              "page": "p-addressable-manual-call-point.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-Call-Point-Resettable.webp"
+            },
+            {
+              "name": "Conventional Manual Call Point",
+              "page": "p-conventional-manual-call-point.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Conventional-Fire-Call-Point.webp"
+            }
+          ]
+        }
+      ]
+    } };
+  }
+}
+</script>
+</body>
+</html>

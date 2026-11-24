@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — HD Bullet Camera</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="ProductPage" item="{{ item }}" hint-size="100%,1500px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1500}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { item: {
+      "name": "HD Bullet Camera",
+      "cat": "CCTV Cameras",
+      "catPage": "c-cctv-cameras.dc.html",
+      "price": "",
+      "desc": "Long-range outdoor HD camera with infrared night vision and an IP66 weatherproof housing.",
+      "details": [],
+      "related": [
+        {
+          "name": "VHD Dome Camera",
+          "page": "p-vhd-dome-camera.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/VHD-DOME.jpg"
+        },
+        {
+          "name": "Wireless Wi-Fi Camera",
+          "page": "p-wireless-wi-fi-camera.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/Wireless-Wi-Fi-Camera.jpg"
+        },
+        {
+          "name": "PTZ Security Camera",
+          "page": "p-ptz-security-camera.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/PTZ-Security-Camera.jpg"
+        },
+        {
+          "name": "4K Ultra HD Camera",
+          "page": "p-4k-ultra-hd-camera.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/4K-Ultra-HD-Camera.jpg"
+        }
+      ],
+      "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/HD-Bullet-Camera.jpg"
+    } };
+  }
+}
+</script>
+</body>
+</html>

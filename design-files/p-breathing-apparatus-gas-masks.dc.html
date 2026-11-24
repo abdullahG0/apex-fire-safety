@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Breathing Apparatus &amp; Gas Masks</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="ProductPage" item="{{ item }}" hint-size="100%,1500px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1500}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { item: {
+      "name": "Breathing Apparatus & Gas Masks",
+      "cat": "Personal Protective Equipment (PPE)",
+      "catPage": "c-ppe.dc.html",
+      "price": "",
+      "desc": "Self-contained SCBA sets with 30–60 minute air cylinders for toxic smoke, confined spaces and chemical fires. HUD displays, quick-connect masks and harness straps.",
+      "details": [],
+      "related": [
+        {
+          "name": "Fire Protective Clothing & Accessories",
+          "page": "p-fire-protective-clothing-accessories.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Fire-Protective-Clothing-Accessories.jpg"
+        },
+        {
+          "name": "Fire Safety Gloves",
+          "page": "p-fire-safety-gloves.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/fire-safety-gloves.jpg"
+        },
+        {
+          "name": "Industrial & Personal Protective Equipment",
+          "page": "p-industrial-personal-protective-equipment.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Industrial-Personal-Protective-Equipment.jpg"
+        }
+      ],
+      "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Breathing-Apparatus-Gas-Masks.jpg"
+    } };
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Addressable 1 Loop Panel</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="ProductPage" item="{{ item }}" hint-size="100%,2500px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":2500}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { item: {
+      "name": "Addressable 1 Loop Panel",
+      "cat": "Fire Alarms",
+      "catPage": "c-fire-alarms.dc.html",
+      "price": "",
+      "desc": "",
+      "details": [],
+      "related": [
+        {
+          "name": "Addressable 2 Loop Panel",
+          "page": "p-addressable-2-loop-panel.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-Two-Loop-32-Zone-Panel.webp"
+        },
+        {
+          "name": "Smoke & Heat Detectors (Conventional Fire Alarm Systems)",
+          "page": "p-smoke-heat-detectors-conventional-fire-alarm-systems.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Smoke-Heat-Detectors3.jpg"
+        },
+        {
+          "name": "Conventional Fire Alarm Panels",
+          "page": "p-conventional-fire-alarm-panels.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Addressable-Fire-Alarm-Systems.jpg"
+        },
+        {
+          "name": "Addressable Fire Alarm Systems",
+          "page": "p-addressable-fire-alarm-systems.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/addressable-fire-alram.jpg"
+        }
+      ],
+      "features": [
+        "Third-party certified to EN54-2/4 by the Loss Prevention Certification Board (LPCB).",
+        "Compatibility with Context Plus addressable detectors and devices.",
+        "Two independently programmable conventional sounder circuits.",
+        "Two programmable inputs.",
+        "A fault output relay and three programmable relay outputs with voltage free changeover contacts.",
+        "A selection of zone dependency/coincidence functions.",
+        "A day/night (building occupied/unoccupied) function.",
+        "An investigation delay period function.",
+        "Phased evacuation facility.",
+        "An alarm counter that records how many times the panel has been in alarm state."
+      ],
+      "featuresTitle": "Key features",
+      "blocks": [
+        {
+          "k": "p",
+          "t": "Context Plus Addressable 1 Loop Panel is certified to EN54 parts 2 & 4 by the LPCB, the XFP Range of addressable fire panels offers high performance at a competitive price. Available in two different versions (a cost-effective single loop 16 zone panel in a plastic enclosure and a robust 1 or 2 loop 32 zone metal panel), the range offers an array of user and installer-friendly features."
+        },
+        {
+          "k": "p",
+          "t": "The price of a fire alarm system can vary widely depending on a number of factors, including the size of the building, the number of devices (such as smoke detectors, heat sensors, and manual pull stations) needed, the complexity of the system (e.g., whether it needs to be connected to a central monitoring station or has other special features), and the installation costs. But start from Rs 10,000 to 300k with larger and more complex systems tending to cost more."
+        }
+      ],
+      "descTitle": "Addressable 1 Loop Panel",
+      "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-One-Loop-16-Zone-Panel.webp"
+    } };
+  }
+}
+</script>
+</body>
+</html>

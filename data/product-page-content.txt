@@ -1,0 +1,764 @@
+@@ AFFF Fire Extinguishers
+specs: Specifications
+> Type: Aqueous Film Forming Foam (AFFF) Fire Extinguisher
+> Fire Class Rating: Suitable for Class A (Solid Fires) and Class B (Flammable Liquid Fires)
+> Agent: AFFF Foam Solution
+> Capacity Options: 6 liters, 9 liters, 50 liters, 100 liters
+> Discharge Time: 20 to 60 seconds (depending on size)
+> Discharge Range: 3 to 5 meters
+> Body Material: Corrosion-Resistant Steel Cylinder
+> Operating Pressure: 12 to 15 bar
+> Temperature Range: +5°C to +55°C
+> Nozzle Type: Spray Nozzle for Effective Coverage
+> Certifications: Complies with International Fire Safety Standards
+> Application: Ideal for Fuel Stations, Warehouses, Factories, Airports, and Commercial Buildings
+title: AFFF Foam Type Fire Extinguisher
+Protect your industrial facility, commercial warehouse, or high-risk property with the AFFF Foam Type Fire Extinguisher from Apex Fire Safety. Filled with high-performance Aqueous Film-Forming Foam (AFFF), this unit discharges a water-based foam solution that blankets fuel surfaces, starves flames of oxygen, and creates a durable vapor seal to prevent dangerous re-ignition.
+As a trusted fire protection supplier in Pakistan, Apex Fire Safety delivers certified AFFF extinguishers designed to tackle high-intensity Class A (solid combustibles) and Class B (flammable liquids) hazards efficiently.
+## How AFFF Foam Technology Works
+When activated, the pressurized nitrogen propellant discharges the foam solution. The foam rapidly spreads over liquid fuels (such as petrol, diesel, and solvents), forming a thin aqueous film that:
+- Smothers the Fire: Cuts off the supply of oxygen instantly.
+- Cools the Fuel: Absorbs heat to lower the surface temperature.
+- Suppresses Vapors: Seals flammable gases below the blanket to block flashovers and re-ignition.
+## Key Features & Technical Specifications
+- Fire Class Rating: Class A (Wood, Paper, Textiles, Rubber) & Class B (Petrol, Oil, Diesel, Paints, Solvents).
+- Available Capacities: 6 Liters, 9 Liters (Portable), and 25L / 50L (Wheeled Trolley Units).
+- Cylinder Construction: Heavy-duty, cold-rolled steel cylinder with internal PVC anti-corrosion coating and polyester powder-coated exterior.
+- Identification: Standard Cream Color Code / Band for immediate identification during emergencies.
+- Propellant & Pressure: Stored pressure system with Nitrogen gas (12 to 15 bar operating pressure).
+- Discharge Mechanism: Controllable squeeze-grip brass valve with pressure gauge and safety release valve.
+- Environmental Standards: Eco-friendly foam options (Fluorine-Free / Low-PFAS compliant).
+## AFFF Fire Extinguisher Price in Pakistan
+At Apex Fire Safety, we offer competitive pricing and nationwide delivery across Karachi, Lahore, Islamabad, Multan, Faisalabad, and Peshawar.
+| Capacity / Model | Recommended Setup |
+| 6 Liter Portable | Commercial Shops, Small Garages, Offices |
+| 9 Liter Portable | Manufacturing Facilities, Workshops, Depots |
+| 25 Liter Trolley | Fuel Stations, Mid-Scale Chemical Storage |
+| 50 Liter Trolley | Industrial Plants, Oil Refineries, Airports |
+Note: Prices vary depending on imported certification status (CE / EN3 / ISO) and quantity required. Contact Apex Fire Safety for bulk quotes and site risk assessments.
+## Primary Applications
+AFFF Foam Extinguishers are essential for spaces where flammable liquid storage and solid combustible hazards coexist:
+- Petrol Pumps & Fuel Stations
+- Warehouses & Logistics Hubs
+- Oil Refineries & Chemical Plants
+- Mechanical Workshops & Automotive Garages
+- Paint Stores & Manufacturing Units
+!! Critical Safety Warnings
+- Electrical Hazard: Standard AFFF foam contains water and is electrically conductive. DO NOT use on live electrical panels, servers, or wiring unless certified and isolated. Use a CO₂ or Dry Powder Extinguisher for electrical fires.
+- Deep-Fat Cooking Oils (Class F): Do not use on commercial kitchen deep fryers. Install a Wet Chemical Fire Extinguisher instead.
+- Alcohol & Polar Solvents: Standard AFFF breaks down when applied to alcohol fires. Use AR-AFFF (Alcohol-Resistant) foam for storage areas containing ethanol or acetone.
+## Why Buy From Apex Fire Safety Pakistan?
+Apex Fire Safety is your complete end-to-end partner for commercial and industrial fire protection.
+- Certified Quality: Every cylinder is hydrostatically pressure tested to meet international performance standards.
+- Supply & Installation: Professional site installation by trained technicians.
+- Refilling & Servicing: Complete maintenance services, pressure testing, and automatic AFFF refilling across Pakistan.
+- Custom Safety Packages: Combine extinguishers, hydrants, alarms, and safety audits into one package.
+Contact Apex Fire Safety today at apexfiresafety.pk to order your AFFF Foam Fire Extinguishers or request an expert fire risk assessment.
+
+@@ CO2 Fire Extinguishers
+specs: Specifications
+> Type: Carbon Dioxide (CO2) Fire Extinguisher
+> Fire Class Rating: Suitable for Class B (Flammable Liquids) and Class C (Electrical Equipment) Fires
+> Agent: Carbon Dioxide (CO2) Gas
+> Capacity Options: 2 kg, 3 kg, 5 kg, 6 kg, 9 kg, 12 kg
+> Discharge Time: 8 to 15 seconds (depending on size)
+> Discharge Range: 2 to 4 meters
+> Body Material: Corrosion-Resistant Steel Cylinder
+> Operating Pressure: 50 to 60 bar
+> Temperature Range: -20°C to +55°C
+> Nozzle Type: Non-Conductive Horn for Safe Application on Electrical Fires
+> Certifications: Complies with International Safety Standards
+> Application: Ideal for Data Centers, Offices, Laboratories, Server Rooms, Industrial Sites, and Commercial Kitchens
+title: CO₂ (Carbon Dioxide) Fire Extinguisher
+Safeguard your high-voltage electrical assets, sensitive IT infrastructure, and commercial machinery with the CO₂ (Carbon Dioxide) Fire Extinguisher from Apex Fire Safety. Powered by pure, non-conductive carbon dioxide gas, this premium unit rapidly extinguishes fires by starving the flame of oxygen and absorbing thermal energy. Because CO₂ evaporates completely without leaving messy powders or liquid residue, it ensures zero secondary damage or post-fire cleanup for critical electronics.
+As a leading fire protection supplier in Pakistan, Apex Fire Safety provides certified CO₂ extinguishers engineered to handle high-risk Class B (flammable liquids) and Class C (energized electrical) fire hazards.
+## How CO₂ Suppression Technology Works
+When activated, liquid carbon dioxide expands rapidly upon discharge through a non-conductive horn, transforming into a dense cloud of cold CO₂ gas. This process:
+- Displaces Oxygen: Starves the fire by reducing atmospheric oxygen surrounding the flame below combustion thresholds.
+- Cools the Hazard: Absorbs heat through rapid expansion, lowering fuel temperatures.
+- Leaves Zero Residue: Evaporates 100% cleanly into the atmosphere, making it completely safe for delicate circuit boards, servers, and optic systems.
+## Key Features & Technical Specifications
+- Fire Class Rating: Class B (Petrol, Diesel, Oils, Paints, Solvents) & Class C (Live Electrical Panels, Server Racks, Machinery).
+- Available Capacities: 2 kg, 3 kg, 5 kg (Portable Units), and 9 kg / 22.5 kg / 45 kg (Wheeled Trolley Units).
+- Cylinder Construction: Seamless high-pressure alloy steel or aluminum cylinder with corrosion-resistant red epoxy powder finish.
+- Identification: Standard Black Color Code / Band for immediate visual identification in emergency conditions.
+- Discharge Mechanism: High-grade chrome-plated brass valve with safety relief disc, locking pin, and a non-conductive frost-free discharge horn.
+- Working Pressure: High-pressure gas storage (50 to 60 bar at ambient room temperature).
+## CO₂ Fire Extinguisher Price in Pakistan
+At Apex Fire Safety, we offer competitive wholesale and retail pricing with fast delivery across Karachi, Lahore, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar, and Quetta.
+## Primary Applications & Specialized Uses
+CO₂ Fire Extinguishers are mandatory for locations requiring residue-free suppression for electrical and liquid hazards:
+- Electrical Panels & Data Centers: Essential for network server racks, UPS battery rooms, switchgears, sub-stations, and telecommunication hubs.
+- Computers & Office Electronics: Ideal for protecting workstations, CCTV monitoring rooms, and server farms without risking chemical damage.
+- Laboratories & Healthcare: Safe for diagnostic facilities, pharmaceutical manufacturing zones, and medical imaging units (MRI/CT labs).
+- Industrial Automation & Machinery: Perfect for protecting CNC machines, printing presses, and automated control cabinets.
+- Commercial Kitchen Electricals: Protects commercial microwave units, ovens, and motorized food prep equipment (power must be isolated).
+- Hot Work & Maintenance: Provides spot-protection during welding, hot-work operations, and ongoing electrical servicing.
+!! Critical Safety Warnings & Limitations
+- Class A Solid Combustibles: CO₂ is not effective for deep-seated Class A fires (wood, paper, textiles) as flames may re-ignite after the gas dissipates. Use a Water or AFFF Foam Extinguisher for solid combustibles.
+- Outdoor / High-Wind Areas: CO₂ gas disperses rapidly in outdoor or ventilated environments, reducing its extinguishing concentration.
+- Frostbite Hazard: The discharge horn gets extremely cold during operation. Always hold the extinguisher by the insulated handle grip to prevent thermal skin burns.
+- Confined Space Evacuation: In small, unventilated rooms, CO₂ displaces breathable air. Evacuate immediately after discharging to prevent asphyxiation.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety is your complete partner for commercial, industrial, and high-tech fire protection across Pakistan.
+- Factory Certified Cylinders: High-pressure hydrostatic testing ensures full safety compliance under international standards.
+- Supply & Installation: Comprehensive mounting, bracket placement, and safety layout planning by trained safety technicians.
+- Refilling & Servicing: On-site pressure checks, weight verification, gas leak testing, and complete CO₂ cylinder refilling services nationwide.
+- Turnkey Safety Audit: Integrated fire assessments to pair CO₂ units with dry chemical, clean agent, or automatic suppression systems.
+Contact Apex Fire Safety today at apexfiresafety.pk to purchase CO₂ Fire Extinguishers or request an expert fire risk evaluation for your facility.
+
+@@ DCP Fire Extinguisher
+specs: Specifications
+> Type: Dry Chemical Powder (DCP) Fire Extinguisher
+> Fire Class Rating: Suitable for Class A, B, and C Fires
+> Agent: Monoammonium Phosphate Powder
+> Capacity Options: 1 kg, 2 kg, 4 kg, 6 kg, 9 kg, 12 kg, 25 kg, 50 kg
+> Discharge Time: 8 to 20 seconds (depending on size)
+> Discharge Range: 3 to 5 meters
+> Body Material: Corrosion-Resistant Steel Cylinder
+> Operating Pressure: 12 to 15 bar
+> Temperature Range: -20°C to +55°C
+> Nozzle Type: High-Performance Hose and Nozzle for Maximum Coverage
+> Certifications: Complies with International Safety Standards
+> Application: Suitable for Industrial Plants, Warehouses, Offices, Commercial Buildings, and Vehicles
+title: DCP Dry Powder Fire Extinguisher
+Protect your industrial facility, commercial warehouse, office, or residential property with the multi-purpose DCP (Dry Chemical Powder) Fire Extinguisher from Apex Fire Safety. Formulated with high-grade Monoammonium Phosphate dry powder, this versatile extinguisher rapidly smothers flames by interrupting the chemical chain reaction of combustion, knocking down fires in seconds.
+As a trusted fire protection supplier in Pakistan, Apex Fire Safety provides certified DCP extinguishers designed to handle Class A (solid combustibles), Class B (flammable liquids), Class C (flammable gases), and live electrical hazards with maximum efficiency.
+## How DCP Suppression Technology Works
+When activated, the pressurized propellant forces a dense cloud of micro-fine dry chemical powder over the burning material. This multi-action process:
+- Interrupts Combustion: Microscopic chemical particles break down the chemical chain reaction of the fire.
+- Blankets the Fuel: Smothers the fuel source to cut off the supply of oxygen immediately.
+- Forms a Thermal Shield: Creates a protective barrier against extreme radiant heat, shielding nearby structures and personnel during emergency response.
+## Key Features & Technical Specifications
+- Fire Class Rating: Multi-purpose Class A (Wood, Paper, Textiles), Class B (Petrol, Diesel, Oil, Paints), Class C (Propane, Methane, Gases), and Live Electrical Equipment.
+- Available Capacities: 1 kg, 2 kg, 4 kg, 6 kg, 9 kg, 12 kg (Portable Units), and 25 kg / 50 kg / 75 kg (Wheeled Trolley Units).
+- Cylinder Construction: Heavy-duty, deep-drawn cold-rolled steel cylinder with internal anti-corrosion coating and UV-resistant red polyester powder finish.
+- Identification: Standard Blue Color Code / Band for rapid visual identification during emergency situations.
+- Propellant & Pressure: Stored pressure design using Nitrogen gas (operating pressure 12 to 15 bar).
+- Discharge Mechanism: High-precision brass valve with built-in pressure gauge, safety pull-pin, and heavy-duty hose nozzle.
+- Temperature Resistance: Performs reliably in extreme temperature ranges (-20°C to +60°C).
+## DCP Fire Extinguisher Price in Pakistan
+At Apex Fire Safety, we offer competitive factory-direct prices with fast delivery across Karachi, Lahore, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar, and Quetta.
+## Key Advantages & Applications
+DCP Dry Powder Extinguishers are the most widely deployed fire safety units across industrial, commercial, and transport sectors:
+- Multi-Class Versatility: Single-unit protection for solid combustibles, liquid fuels, and gas leaks.
+- Non-Conductive & Safe: Powder does not conduct electricity, making it safe for live electrical sub-panels, generators, and transformers.
+- Immediate Knockdown: Rapid flame suppression prevents small initial fires from turning into major blazes.
+- Wide Placement Flexibility: Compact sizes (1–12 kg) fit easily on wall brackets, vehicles, or emergency fire stands.
+!! Critical Safety Warnings & Limitations
+- Sensitive Electronics & Servers: Dry powder leaves a fine, non-conductive residue that can contaminate server circuits, optical equipment, and precision machinery. For data centers, server rooms, and medical labs, install Halotron Clean Agent or CO₂ Extinguishers.
+- Commercial Kitchen Fires (Class F): DO NOT use dry powder on deep-fat fryers or boiling cooking oils. Use a Wet Chemical Fire Extinguisher to prevent splashing and re-ignition.
+- Combustible Metal Fires (Class D): Standard ABC powder is ineffective on burning metals like magnesium, sodium, or titanium. Specialized Class D Powder Units are required for metal fires.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety delivers complete end-to-end fire protection solutions tailored for commercial, industrial, and residential sectors.
+- Factory Certified Equipment: Cylinders are hydrostatically tested and compliant with international safety standards.
+- Professional Installation: Complete wall mounting, bracket placement, and emergency route layout design.
+- Refilling & Maintenance: Comprehensive powder refilling, pressure checks, and annual inspection services nationwide.
+- Turnkey Safety Consultation: Full site risk assessments to equip your premises with the correct balance of DCP, CO₂, foam, and clean agent extinguishers.
+Contact Apex Fire Safety today at apexfiresafety.pk to purchase DCP Dry Powder Fire Extinguishers or request an expert fire safety audit for your property.
+
+@@ Halotron Fire Extinguishers
+specs: Specifications
+> Type: Clean Agent (Halotron) Fire Extinguisher
+> Fire Class Rating: Suitable for Class A (Solid Fires), Class B (Flammable Liquids), and Class C (Electrical Fires)
+> Agent: Halotron I (Clean Agent)
+> Capacity Options: 2 kg, 4 kg, 6 kg, 9 kg, 12 kg
+> Discharge Time: 10 to 20 seconds (depending on size)
+> Discharge Range: 3 to 5 meters
+> Body Material: Corrosion-Resistant Steel Cylinder
+> Operating Pressure: 12 to 15 bar
+> Temperature Range: -20°C to +55°C
+> Nozzle Type: High-Performance Discharge Hose and Nozzle
+> Certifications: Complies with International Safety Standards
+> Application: Ideal for Data Centers, Laboratories, Server Rooms, Museums, Aircraft Hangars, and Hospitals
+title: Halotron Clean Agent Fire Extinguisher
+Safeguard your high-value assets, mission-critical electronics, and sensitive facilities with the Halotron Clean Agent Fire Extinguisher from Apex Fire Safety. Powered by advanced Halotron I clean extinguishing agent; this premium unit rapidly smothers fires by interrupting the chemical reaction of combustion—leaving zero residue and causing no thermal shock or corrosion to sensitive equipment.
+As a premier fire protection supplier in Pakistan, Apex Fire Safety provides certified clean agent extinguishers designed for comprehensive Class A (solids), Class B (flammable liquids), and Class C (energized electrical) fire risks.
+## How Halotron Clean Agent Technology Works
+Halotron discharges as a rapidly evaporating liquid that penetrates hard-to-reach areas without damaging electronics or leaves messy powders behind. Its triple-action suppression process:
+- Interrupts Combustion: Rapidly breaks the chemical chain reaction of the flame.
+- Cools the Hazard: Absorbs thermal energy to bring temperatures below ignition points.
+- Leaves Zero Residue: Evaporates completely, eliminating post-fire cleanup and preventing secondary collateral damage to electronics, optical devices, or critical documents.
+## Key Features & Technical Specifications
+- Fire Class Rating: Multi-purpose Class A (Solids), Class B (Flammable Liquids), and Class C (Live Electrical Equipment).
+- Available Capacities: 2 kg, 4 kg, 6 kg, 9 kg (Portable Units), and 25 kg / 45 kg (Wheeled Trolley Units).
+- Cylinder Construction: High-tensile steel cylinder with corrosion-resistant epoxy powder coating.
+- Identification: Standard Green Color Code / Band for immediate identification during emergency response.
+- Propellant & Pressure: Stored pressure design using dry Argon gas (operating pressure 7 to 9 bar / 100 to 125 psi).
+- Discharge Mechanism: High-precision chrome-plated brass valve with dual-scale pressure gauge and quick-release pin.
+- Environmental Profile: EPA SNAP-approved clean agent with low Global Warming Potential (GWP) and zero Ozone Depletion Potential (ODP).
+## Halotron Fire Extinguisher Price in Pakistan
+At Apex Fire Safety, we supply certified Halotron clean agent units with express delivery across Karachi, Lahore, Islamabad, Multan, Faisalabad, Peshawar, and Quetta.
+## Primary Applications
+Halotron Clean Agent Extinguishers are mandatory for spaces where dry chemical powders or water-based agents would destroy high-value hardware:
+- Data Centers & Network Server Rooms
+- Telecommunications Switchexchanges & Control Rooms
+- Laboratories, MRI Rooms & Medical Centers
+- Aviation Hangars, Aircraft & Maritime Vessels
+- Museums, Art Galleries & Historical Archives
+- Electrical Sub-panels & High-Tech Manufacturing Facilities
+!! Critical Operating & Maintenance Guidelines
+- Electrical Compatibility: Halotron is non-conductive and safe for live electrical equipment up to high voltage thresholds.
+- Confined Space Caution: When discharging in small, enclosed rooms, evacuate the area immediately after discharge to avoid inhaling displaced oxygen or vapors.
+- Annual Maintenance: Check the integrated pressure gauge monthly. Ensure annual hydrostatic testing and servicing by certified technicians to guarantee reliable discharge pressure.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety delivers complete end-to-end fire protection solutions tailored to high-tech commercial and industrial enterprises.
+- Certified Clean Agents: Fully tested and compliant with international safety and environmental standards.
+- Turnkey Installation: Complete mounting, bracket placement, and room safety audits by qualified engineers.
+- Halotron Refilling & Servicing: Professional clean agent refilling, leak detection, and pressure testing services across Pakistan.
+- Custom Safety Consultations: Comprehensive site surveys to pair clean agent extinguishers with automatic suppression and fire alarm systems.
+Contact Apex Fire Safety today at apexfiresafety.pk to purchase Halotron Clean Agent Fire Extinguishers or request a professional risk evaluation for your facility.
+
+@@ Water Fire Extinguishers
+specs: Specifications
+> Type: Water Fire Extinguisher
+> Fire Class Rating: Suitable for Class A Fires (Wood, Paper, Textiles, etc.)
+> Agent: Pressurized Water
+> Capacity Options: 6 liters, 9 liters, 12 liters
+> Discharge Time: 30 to 60 seconds (depending on size)
+> Discharge Range: 4 to 6 meters
+> Body Material: Corrosion-Resistant Steel Cylinder
+> Operating Pressure: 12 to 15 bar
+> Temperature Range: +5°C to +55°C
+> Nozzle Type: Spray Nozzle for Effective Fire Suppression
+> Certifications: Complies with International Fire Safety Standards
+> Application: Ideal for Schools, Offices, Warehouses, Residential Buildings, and Public Facilities
+title: Water Type Fire Extinguisher
+Ensure reliable protection for your office, educational institution, commercial warehouse, or residential building with the Water Type Fire Extinguisher from Apex Fire Safety. Powered by pressurized water, this cost-effective and eco-friendly unit rapidly penetrates burning materials to cool flames below their ignition threshold, preventing dangerous re-ignition.
+As a leading provider of fire protection equipment in Pakistan, Apex Fire Safety supplies certified water fire extinguishers engineered specifically to handle high-risk Class A (solid combustible) fire hazards.
+## How Water Extinguisher Technology Works
+When activated, the pressurized nitrogen propellant forces a concentrated stream of water directly into the base of the fire. Its dual-action cooling process:
+- Absorbs Thermal Energy: Rapidly lowers the temperature of burning solid fuels.
+- Penetrates Deeply: Soaks into porous materials like wood, textiles, and paper to extinguish deep-seated embers.
+- Leaves Zero Chemical Residue: Uses clean water, eliminating toxic fumes, hazardous chemical cleanup, or damage to non-electrical surfaces.
+## Key Features & Technical Specifications
+- Fire Class Rating: Class A (Wood, Paper, Cardboard, Textiles, Furniture, Rubber, and Plastics).
+- Available Capacities: 6 Liters and 9 Liters (Portable Units), and 45L / 50L (Wheeled Trolley Units).
+- Cylinder Construction: High-grade steel cylinder with internal plastic/epoxy anti-corrosion lining and weather-resistant external red polyester coating.
+- Identification: Standard Bright Red Color Code / Band for immediate identification during an emergency.
+- Propellant & Pressure: Stored pressure design using Nitrogen gas (operating pressure 12 to 15 bar).
+- Discharge Mechanism: Durable brass spray valve with built-in pressure gauge, safety pin, and flexible directional hose nozzle.
+- Environmental Impact: 100% eco-friendly, non-toxic, and chemical-free.
+## Water Fire Extinguisher Price in Pakistan
+At Apex Fire Safety, we deliver affordable fire safety solutions with prompt delivery across Karachi, Lahore, Islamabad, Rawalpindi, Multan, Faisalabad, and Peshawar.
+## Primary Applications
+Water Type Extinguishers are essential for environments dominated by solid organic combustibles:
+- Schools, Colleges & University Campuses
+- Corporate Offices & Commercial Buildings
+- Textile Mills & Garment Warehouses
+- Paper Mills, Printing Presses & Packaging Plants
+- Residential Apartments & Community Centers
+- Timber Stores & Furniture Workshops
+!! Critical Safety Warnings
+- Electrical Shock Hazard: Standard water extinguishers contain conductive liquid. NEVER use on live electrical equipment, switches, panels, or appliances unless power is fully isolated. For electrical hazards, use a CO₂ or Halotron Clean Agent Extinguisher.
+- Flammable Liquids (Class B): DO NOT use on petrol, diesel, oil, or paint fires. Water will cause liquid fuel to spread rapidly and splash. Use an AFFF Foam or Dry Powder Extinguisher instead.
+- Cooking Oils & Fats (Class F): DO NOT use on commercial kitchen fryers, as adding water to boiling oil causes explosive splatter. Use a Wet Chemical Fire Extinguisher.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety provides comprehensive end-to-end fire prevention and suppression services tailored for Pakistani businesses and institutions.
+- Rigorous Quality Testing: Every unit undergoes factory hydrostatic pressure testing to meet strict safety standards.
+- Professional Installation: Expert mounting, bracket placement, and safety signage compliant with local fire safety codes.
+- Refilling & Servicing: On-site pressure checks, annual inspection, and complete cylinder refilling services nationwide.
+- Safety Consultation: Complete risk assessments to pair your water units with dry chemical, CO₂, or foam extinguishers for multi-hazard protection.
+Contact Apex Fire Safety today at apexfiresafety.pk to order Water Type Fire Extinguishers or schedule a professional fire risk assessment for your property.
+
+@@ Wet Chemical Fire Extinguishers
+specs: Specifications
+> Fire Class Rating: Suitable for Class F Fires (Cooking Oils and Fats)
+> Agent: Potassium-Based Wet Chemical Solution
+> Capacity Options: 6 liters, 9 liters
+> Discharge Time: 30 to 60 seconds (depending on size)
+> Discharge Range: 3 to 4 meters
+> Body Material: Corrosion-Resistant Steel Cylinder
+> Operating Pressure: 12 to 15 bar
+> Temperature Range: +5°C to +60°C
+> Nozzle Type: Spray Nozzle for Controlled and Effective Application
+> Certifications: Complies with International Safety Standards
+> Application: Ideal for Commercial Kitchens, Restaurants, Cafeterias, and Food Processing Units
+title: Wet Chemical Fire Extinguisher
+Protect your commercial kitchen, restaurant, or food processing facility with the Wet Chemical Fire Extinguisher from Apex Fire Safety. Formulated with a specialized potassium-based chemical solution, this unit is engineered to conquer deep-fat fryer hazards (Class F fires) and solid combustible risks (Class A fires), ensuring complete kitchen safety without causing dangerous oil splatter.
+As a trusted supplier of fire protection equipment across Pakistan, Apex Fire Safety provides certified wet chemical extinguishers built to meet stringent commercial kitchen safety standards.
+## How Wet Chemical Technology Works
+When discharged over boiling fat or oil, the chemical solution undergoes a process called saponification, reacting with the burning oil to:
+- Form a Soapy Blanket: Creates a thick, non-combustible foam layer over the liquid fat surface to starve the fire of oxygen.
+- Cool Deeply: Rapidly lowers the temperature of the oil below its auto-ignition point.
+- Prevent Re-ignition: Seals in flammable vapors to block flashovers and secondary fires.
+## Key Features & Technical Specifications
+- Fire Class Rating: Class F (Cooking Oils, Fats, Lard, Butter) and Class A (Wood, Paper, Textiles).
+- Available Capacities: 2 Liters, 3 Liters, and 6 Liters (Portable Units).
+- Cylinder Construction: Heavy-duty steel cylinder with internal anti-corrosion lining and weather-resistant external yellow/red polyester powder coating.
+- Identification: Standard Canary Yellow Color Code / Band for rapid visual identification during emergency situations.
+- Propellant & Pressure: Stored pressure system with Nitrogen gas (operating pressure 7 to 11 bar).
+- Extended Applicator: High-precision lance attachment (on 6L models) designed to allow safe discharge from a comfortable distance without splashing hot oil.
+- Environmental & Food Safety: Non-toxic formulation safe for commercial culinary environments.
+## Wet Chemical Fire Extinguisher Price in Pakistan
+At Apex Fire Safety, we supply commercial kitchen safety solutions with fast delivery across Karachi, Lahore, Islamabad, Rawalpindi, Multan, Faisalabad, and Peshawar.
+## Primary Applications
+Wet Chemical Extinguishers are mandatory for commercial and industrial food preparation zones:
+- Restaurant Kitchens & Hotel Dining Operations
+- Fast Food Outlets & Commercial Fryer Lines
+- Hospital & University Cafeteria Kitchens
+- Food Processing Plants & Industrial Bakeries
+- Catering Facilities & Food Trucks
+!! Critical Safety Warnings
+- Splatter Prevention: Use the extended lance nozzle gently. Directing high-pressure jets straight into hot liquid fat will cause severe oil splashing.
+- Electrical Hazard: Standard wet chemical solutions are water-based and conductive. Isolate kitchen power sources before discharging near live wiring, fryers, or heating elements.
+- Flammable Liquids (Class B): DO NOT use on petrol, diesel, or paint fires. Use an AFFF Foam or Dry Powder Extinguisher for Class B hazards.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety delivers comprehensive end-to-end fire safety management for the Pakistani hospitality and food sector.
+- Factory Certified: Every unit is pressure tested and compliant with international fire safety codes.
+- Professional Installation: Technical mounting, wall bracket installation, and clear emergency signage layout.
+- Refilling & Servicing: Complete chemical refilling, pressure maintenance checks, and annual kitchen inspections nationwide.
+- Turnkey Safety Solutions: Integrate your portable extinguishers with automatic kitchen hood fire suppression systems.
+Contact Apex Fire Safety today at apexfiresafety.pk to order Wet Chemical Fire Extinguishers or schedule an expert fire safety audit for your kitchen.
+
+@@ Fire Fighting Pumps
+specs: Specifications of Fire Fighting Pumps (Centrifugal Fire Pump)
+> Flow Rate: 500 to 10,000 GPM
+> Pressure: 50 to 250 PSI
+> Power Source: Electric, Diesel, or Dual
+> Motor Power: 20 HP to 300 HP
+> Material: Cast iron, Stainless steel
+> Applications: Commercial, Industrial, High-rise buildings
+> Compliance: NFPA 20, UL Listed
+title: Fire Fighting Pump Sets
+Ensure uninterrupted, high-pressure water delivery across your facility’s fire main system with Automatic Fire Fighting Pump Sets from Apex Fire Safety. Engineered to drive sprinkler networks, fire hydrants, hose reels, and deluge systems, our pump packages deliver instant, high-capacity water flow during critical structural or industrial fire emergencies.
+As a premier turn-key fire protection contractor in Pakistan, Apex Fire Safety (apexfiresafety.pk) supplies, installs, tests, and maintains NFPA 20-compliant fire pump packages (UL-listed / FM-approved / certified heavy-duty units) across Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, and major industrial hubs.
+## Core Types of Fire Fighting Pumps We Supply
+A complete fire pump house configuration typically combines three essential pump units operating in tandem:
+- Electric Main Fire Pump (Centrifugal): Serves as the primary water supply pump under normal grid power, delivering high flow rates (GPM/LPM) at sustained pressure to fire lines.
+- Diesel Engine Fire Pump: Operates as the critical backup unit that automatically starts during power grid failures or electrical outages, ensuring 100% operational readiness.
+- Jockey Pressure-Maintenance Pump: A small, automated electric pump designed to maintain constant static pressure within the fire main piping, preventing unnecessary cycling of the main pumps due to minor pressure fluctuations.
+- End-Suction & Horizontal Split-Case Pumps: Configured for high-flow industrial facilities, high-rise towers, and large warehouse storage hubs.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety (apexfiresafety.pk) is your complete turn-key partner for industrial pump room engineering and water-based fire protection systems across Pakistan.
+- NFPA 20 Compliance: Precision sizing, pipe manifold fabrication, and panel integration meeting international fire codes.
+- Turn-Key Services: Engineering design, pump house piping, installation, alignment, flow testing, and annual maintenance contracts (AMC).
+- Nationwide Coverage: Expert technical service teams serving Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, and all major industrial estates.
+Contact Apex Fire Safety today at apexfiresafety.pk to schedule a technical pump room evaluation or request a quotation for your fire pump package.
+
+@@ Fire Hose Nozzles
+features: Why Choose Apex Fire Safety’s Hose Nozzles?
++ High-Quality, Heat & Corrosion-Resistant Materials
++ Precise Water Flow Control for Maximum Fire Suppression
++ Ergonomic & Lightweight Design for Easy Handling
++ Compliant with International Fire Safety Standards
++ Suitable for Industrial, Commercial & Residential Fire Safety Needs
+title: Fire Hose Nozzles
+A Fire Hose Nozzle is a crucial firefighting tool designed to control and direct water flow with precision, ensuring efficient fire suppression. It is attached to the end of a fire hose and allows firefighters to adjust water pressure, spray patterns, and flow rate for optimal performance.
+## Types of Fire Hose Nozzles We Supply
+- Jet Nozzles (Smooth Bore): Delivers a high-velocity, concentrated water stream for maximum reach and deep penetration into burning solid combustibles (Class A hazards).
+- Fog Nozzles: Discharges a fine, mist-like water spray that rapidly cools hot surfaces, absorbs thermal energy, and protects firefighters from radiant heat.
+- Adjustable / Combination Nozzles: Features a rotating head that allows smooth transitioning from a direct straight jet stream to a wide cooling fog pattern based on evolving fire conditions.
+- Automatic Pressure-Balancing Nozzles: Automatically adjusts water discharge flow to maintain optimum pressure and stream reach despite fluctuating line pressures.
+- Heavy-Duty Brass & Lightweight Aluminum Nozzles: Engineered for maximum durability, impact resistance, and long-term anti-corrosion performance in harsh industrial environments.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety (apexfiresafety.pk) is your complete partner for commercial, industrial, and high-risk fire protection equipment.
+- Tested Reliability: All nozzles undergo hydrostatic pressure and flow pattern testing to ensure leak-free performance under full pump load.
+- Full Hose Compatibility: Seamless integration with standard canvas hoses, rubberized fire hoses, and landing valves used across Pakistan.
+- Turn-Key Support: Equipment supply, hose assembly testing, and safety system maintenance services.
+Contact Apex Fire Safety today at apexfiresafety.pk to order Fire Hose Nozzles or request a quote for your facility’s fire safety inventory.
+
+@@ Fire Hose Pipe
+features: Key features
++ High-Quality, Heat-Resistant Materials
++ Superior Water Flow for Quick Fire Suppression
++ Corrosion & Abrasion-Resistant for Longevity
++ Compliant with International Fire Safety Standards
++ Available in Various Lengths & Diameters
+title: Fire Hose Pipe
+A Fire Hose is a high-pressure, flexible hose designed to deliver water or fire-retardant foam to extinguish fires effectively. It is a critical component in firefighting operations, ensuring rapid response and maximum fire suppression capability.
+## Types of Fire Hoses We Offer
+- Lay-Flat Fire Hoses: Lightweight and easy to store, ideal for firefighting.
+- Rubber Fire Hoses: Durable and resistant to extreme conditions.
+- Double-Jacket Hoses: Extra strength for high-pressure applications.
+- Suction Hoses: Used to draw water from a static source like a tank or reservoir.
+Contact Apex Fire Safety today at apexfiresafety.pk to request a quotation for your fire hose pipe.
+
+@@ Fire Hose Reel Cabinet
+features: Features of Our Fire Hose Reel Cabinets
++ Heavy-Duty Construction: Made from high-quality steel or stainless steel for durability.
++ Weather & Corrosion Resistant: Ideal for indoor and outdoor fire safety applications.
++ Secure Locking System: Prevents unauthorized use while allowing quick access in emergencies.
++ Wall-Mounted & Recessed Options: Available in different sizes and designs to suit various locations.
++ Customizable Finishes: Available in red powder-coated, stainless steel, or customized colors.
+title: Fire Hose Reel Cabinet
+A Fire Hose Reel Cabinet is a protective enclosure designed to store and safeguard fire hose reels from environmental damage, vandalism, and unauthorized access. These cabinets ensure that firefighting equipment remains in top condition and is easily accessible during emergencies.
+Contact Apex Fire Safety today at apexfiresafety.pk to purchase Fire Hose Reel Cabinet or request an equipment quotation for your building’s fire safety network.
+
+@@ Fire Hydrant Valve
+features: Key Features of Fire Hydrant Valves
++ Precise Water Flow Control: Allows firefighters to regulate water pressure and flow efficiently.
++ Durable Construction: Made from high-quality brass, gunmetal, stainless steel, or cast iron for long-lasting performance.
++ Corrosion & Heat Resistant: Designed to withstand harsh weather and high temperatures.
++ Standard Inlet & Outlet Sizes: Compatible with fire hoses, nozzles, and standpipes.
++ Easy Operation: Equipped with a handwheel or lever mechanism for smooth operation.
++ Complies with International Fire Safety Standards: Meets BS, AWWA, and NFPA requirements.
+title: Fire Hydrant Valve
+Ensure immediate, high-volume water control during emergency firefighting operations with heavy-duty Fire Hydrant Valves (Landing Valves) from Apex Fire Safety. Installed on wet or dry riser systems, internal fire hose cabinets, and outdoor fire hydrants, these precision-engineered valves allow firefighters and emergency response personnel to quickly connect fire hoses and regulate water discharge under high pressure.
+As a leading provider of fire protection equipment across Pakistan, Apex Fire Safety supplies certified, corrosion-resistant fire hydrant valves manufactured to meet stringent international standards (BS 5041 / NFPA / ISO) for installations in Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, and major industrial sectors.
+## Key Features & Technical Specifications
+- Valve Types: Right-Angle Landing Valves, Oblique Landing Valves, Bib-Nose Valves, and Horizontal Landing Valves.
+- Inlet Connection: 2.5-inch (DN65) Flanged (PN16 / BS 4504) or Threaded (BSP / NPT) inlets.
+- Outlet Connection: 2.5-inch (65mm) BS336 Instantaneous Female Outlet with brass blank cap and securing chain.
+- Material & Construction: Cast Gunmetal / High-Grade Leaded Bronze or Heavy-Duty Forged Brass body for maximum resistance to water hammer and internal corrosion.
+- Working & Test Pressure: Nominal working pressure of 15 bar (217 psi) and hydrostatic shell testing up to 22.5 bar to 30 bar.
+- Operation: Ergonomic, high-torque handwheel mechanism with heavy-duty internal rubber/bronze disc seal ensuring leak-proof operation.
+## Primary Applications
+Fire Hydrant Valves are essential control points in multi-story and large-area fire protection infrastructure:
+- Internal & Outdoor Fire Hose Cabinets
+- Wet and Dry Riser Mains in High-Rise Buildings
+- Commercial Malls, Office Plazas & Residential Towers
+- Textile Mills, Garment Factories & Industrial Plants
+- Warehouses, Fuel Depots & Manufacturing Estates
+## Fire Hydrant Valve Price in Pakistan
+At Apex Fire Safety, we offer single-unit and bulk pricing with nationwide delivery across Pakistan.
+## Why Choose Apex Fire Safety Pakistan?
+- Strict Quality Assurance: Every valve undergoes hydrostatic testing to guarantee flawless seal integrity under maximum pump pressure.
+- Full Compatibility: Seamless fit with standard 2.5-inch canvas hoses, instantaneous couplings, and municipal fire engine hose connections across Pakistan.
+- Turn-Key Support: Supply, installation, maintenance, valve seat re-facing, and complete riser testing services.
+Contact Apex Fire Safety today at apexfiresafety.pk to purchase Fire Hydrant Valves or request an equipment quotation for your building’s fire safety network.
+
+@@ Pillar Fire Hydrant
+specs: General Specifications
+> Type: Above-ground, wet barrel or dry barrel
+> Body Material: Ductile iron / Cast iron / Stainless steel
+> Nominal Diameter (DN): 80mm, 100mm, 150mm (custom sizes available)
+> Working Pressure: 1.0 MPa – 1.6 MPa (10 – 16 bar)
+> Body Test Pressure: 16 bar (1.6 MPa)
+> Seat Test Pressure: 10 bar (1.0 MPa)
+title: Pillar Fire Hydrant
+Ensure immediate, high-volume water access during emergency fire response with heavy-duty Pillar Fire Hydrants from Apex Fire Safety. Installed above ground along perimeter fire mains, dedicated access roads, and high-risk industrial yards, pillar hydrants provide municipal fire brigades and local emergency response teams with direct, high-pressure water connections to combat large-scale structural or outdoor fires.
+As a trusted turn-key fire protection contractor in Pakistan, Apex Fire Safety delivers certified, heavy-duty pillar fire hydrants designed to meet international standards (BS 750 / AWWA / NFPA) across Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, and major industrial estates.
+## Key Features & Technical Specifications
+- Design & Construction: Heavy-duty ductile iron or cast iron body with high corrosion-resistant epoxy powder coating.
+- Inlet & Outlet Configurations: Available with 4-inch (DN100) or 6-inch (DN150) flanged inlets, featuring dual 2.5-inch BS336 instantaneous female outlets and optional large pumper connections.
+- Working Pressure: Rated for nominal operating pressures of 10 bar to 16 bar (PN10/PN16 testing).
+- Valving Mechanism: Internal main valve mechanism (wet-barrel or dry-barrel types) with heavy-duty brass/bronze internal components to prevent freezing, leakage, and jamming.
+- Color Identification: Bright Signal Red (RAL 3000) for instant visibility during high-stress emergency operations.
+## Primary Applications
+Pillar fire hydrants serve as critical perimeter defense infrastructure for multi-building facilities and public networks:
+- Industrial Parks, Manufacturing Plants & Textile Estates
+- Oil Refineries, Depots & Chemical Storage Facilities
+- Commercial Warehouses & Logistics Hubs
+- Housing Societies, Municipal Networks & High-Rise Plazas
+- Airports, Seaports & Power Generation Plants
+## Why Choose Apex Fire Safety Pakistan?
+- Certified Durability: Every hydrant body undergoes hydrostatic pressure testing to guarantee zero failure under high fire-main pressure.
+- Turn-Key System Integration: Seamless connection to underground fire water mains, ring mains, diesel fire pump sets, and outdoor hose cabinets.
+- Maintenance & Testing: On-site flushing, valve seat inspections, flow-rate testing, and gasket servicing across Pakistan.
+Contact Apex Fire Safety today at apexfiresafety.pk to purchase Pillar Fire Hydrants or schedule an engineering survey for your facility’s outdoor fire main system.
+
+@@ Fire Exit Doors
+specs: Standard sizes (wall opening dimensions)
+> 900 x 2050 / 1000 x 2050
+> 900 x 2100 / 1000 x 2100
+> 900 x 2150 / 1000 x 2150
+title: Fire rated doors specifications
+- Coating: The doors are coated with electrostatic powder coating process in our modern robotic coating line. The standard color is RAL 9002, however any requested RAL color can be applied. The door frame and the door leaf can be coated in different RAL colors. The interior and exterior of the door leaf can also be coated in different colors.
+- Construction: Door leaf has 63 mm thickness and produced from 0.80 mm thick galvanised steel. Door frame is produced from 1.50 mm galvanized steel.
+- Durability: Galvanized steel is used in the production of door frames and door leaves therefore the doors are highly enduring to corrosion. The galvanized steel has a special surface suitable for electrostatic powder coating. Due to its unique sectional design, the door frame and door leaf are very rigid.
+## Fire Door Purpose
+Fire doors create a passive fire safety system, protecting commercial buildings from the spread of fire by confining it to a specific area for a longer period of time. This allows people within the building enough time to escape via alternative routes which might otherwise be cut off by fire. They are a legal requirement for particular buildings, including for flats and commercial property, but the prime purpose for fire doors is to save precious lives and halt the progress of a destructive fire.
+Contact Apex Fire Safety today at apexfiresafety.pk to request a quotation for your fire doors package.
+
+@@ FM 200 Fire Suppression
+features: Key specifications
++ Agent: Heptafluoropropane (HFC-227ea)
++ Extinguishing Method: Chemical suppression (heat absorption & free radical interruption)
++ Discharge Time: Less than 10 seconds
++ Residue: Zero, clean agent, no cleanup required
++ Environmental Impact: Ozone-friendly, no residue, low Global Warming Potential (GWP)
++ Safety: Non-toxic, safe for occupied spaces
++ Storage: High-pressure cylinders (360 psi to 725 psi)
++ System Activation: Automatic & manual release options
++ Application Areas: Data centers, server rooms, electrical rooms, museums, libraries, and other critical facilities
++ Standards & Certifications: NFPA 2001, UL Listed, FM Approved
+title: FM-200 (HFC-227ea) Automatic Clean Agent Fire Suppression System
+Safeguard your mission-critical data infrastructure, high-voltage electrical rooms, and sensitive equipment with the FM-200 (HFC-227ea) Automatic Clean Agent Fire Suppression System from Apex Fire Safety. Engineered to detect and extinguish fires within 10 seconds of discharge, FM-200 rapidly smothers combustion without leaving chemical residues, oily films, or water damage—ensuring zero secondary damage to sensitive electronic hardware and zero business downtime.
+As a leading turn-key fire protection contractor in Pakistan, Apex Fire Safety provides NFPA 2001-compliant design, engineering, hydraulic modeling, supply, installation, commissioning, refilling, and maintenance services for FM-200 systems nationwide.
+## How FM-200 Clean Agent Suppression Works
+FM-200 (HFC-227ea) is a colorless, odorless, and electrically non-conductive gaseous clean agent stored as a liquid in high-pressure cylinders. When triggered by early-warning smoke detectors, the system discharges gaseous agent through engineered piping networks within 10 seconds, extinguishing flames through:
+- Heat Absorption: Disperses rapidly throughout the protected room to absorb thermal energy at the molecular level, bringing temperatures below ignition thresholds.
+- Chemical Interruption: Interrupts the free-radical chemical chain reaction of the flame.
+- Zero Residue & Safe Dispersal: Evaporates 100% cleanly into the atmosphere without damaging circuit boards, hard drives, or magnetic media, eliminating post-fire cleanup costs.
+- Occupant Safety: Safe for human-occupied spaces at standard design concentrations (7% to 9%), making it ideal for active control rooms and staff environments.
+## Key System Components & Specifications
+- Extinguishing Agent: HFC-227ea (Heptafluoropropane / FM-200).
+- Compliance Standards: Designed, calculated, and installed according to NFPA 2001 (Standard on Clean Agent Fire Extinguishing Systems) and ISO 14520 standards.
+- Storage Pressure: Stored as a liquid super-pressurized with dry Nitrogen gas at 25 bar (360 psi) or 42 bar (600 psi).
+- System Activation: Multi-stage automatic detection via cross-zoned photoelectric smoke detectors, thermal detectors, or manual release stations.
+- Control Unit: Intelligent clean-agent release control panel with battery backup, abort switches, solenoid actuators, line monitoring, and acoustic alarm sounders/strobes.
+- Nozzle & Pipe Network: Precision-engineered 360° and 180° directional discharge nozzles connected through high-pressure schedule 40/80 seamless piping.
+- Environmental Profile: Zero Ozone Depletion Potential (ODP) and EPA SNAP-approved clean agent.
+## Complete FM-200 Services Across Pakistan
+At Apex Fire Safety, we deliver end-to-end engineered clean agent projects across Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, and Peshawar.
+## FM-200 Maintenance & Cylinder Refilling Services
+A suppression system is only as reliable as its ongoing upkeep. Apex Fire Safety provides complete long-term maintenance and cylinder refill solutions across Pakistan:
+- FM-200 Gas Refilling: Certified HFC-227ea gas refilling, pressure charging, and leak detection for exhausted or depressurized cylinders.
+- Hydrostatic Cylinder Testing: Periodic pressure testing of high-pressure cylinders to verify structural integrity and safety code compliance.
+- Room Integrity Testing: Door fan testing to ensure the protected enclosure maintains adequate agent concentration during hold times.
+- Preventive Maintenance Contracts: Regular inspection of pressure gauges, solenoid valves, smoke detectors, release control panels, and battery backups.
+## Why Partner with Apex Fire Safety Pakistan?
+Apex Fire Safety (apexfiresafety.pk) is your trusted partner for high-tech commercial and industrial fire protection systems.
+- NFPA Compliant Engineering: Systems designed strictly according to NFPA 2001 and local safety regulations.
+- Turn-Key Project Delivery: From initial CAD drawings and hydraulic software calculations to final commissioning.
+- Certified Equipment & Agents: Standardized, pressure-tested cylinders with UL/FM-approved component availability.
+- Nationwide Support: Rapid response teams for maintenance, emergency inspections, and cylinder refilling in Karachi, Lahore, Islamabad, and all major industrial hubs.
+Contact Apex Fire Safety today at apexfiresafety.pk to schedule a site evaluation, obtain an FM-200 system quotation, or request gas refilling services for your facility.
+
+@@ Kitchen Fire Suppression System
+features: Key specifications
++ Extinguishing Agent: Wet chemical (potassium-based solution)
++ Extinguishing Method: Rapid fire suppression, cooling, and grease vapor saponification to prevent re-ignition
++ Activation: Automatic (heat detection sensors) & manual pull station
++ Nozzle Types: Pre-engineered discharge nozzles for cooking appliances & exhaust hoods
++ System Components: Detectors, control panel, agent storage tanks, piping, and discharge nozzles
++ Coverage Areas: Commercial kitchens, restaurants, hotels, industrial cooking areas
++ Cleaning & Downtime: Minimal residue, quick cleanup, and fast system reset
++ Standards & Certifications: NFPA 96, UL 300, ANSI/UL 1254, ISO 15371
+title: Automatic Kitchen Hood Fire Suppression
+Protect your commercial kitchen, restaurant, hotel, or food processing facility from devastating grease fires with the Automatic Kitchen Hood Fire Suppression System from Apex Fire Safety. Engineered to comply with UL 300 and NFPA 96 / NFPA 17A international standards, this 24/7 wet chemical system detects and extinguishes high-temperature cooking oil and fat fires (Class K/F) within seconds, preventing expensive equipment damage and operational downtime.
+As a premier fire protection contractor in Pakistan, Apex Fire Safety delivers turn-key design, engineering, UL 300-compliant supply, professional installation, testing, commissioning, gas/electric interlock integration, refilling, and preventive maintenance services nationwide.
+## Key Features & Technical Specifications
+- Design Standards: Engineered to strict UL 300, NFPA 96 (Venting & Fire Protection of Commercial Cooking), and NFPA 17A (Wet Chemical Extinguishing Systems) codes.
+- Extinguishing Agent: Premium potassium-based Wet Chemical agent specially formulated for saponification on high-temperature cooking fats and oils.
+- Actuation Modes: Automatic thermal release via fusible links / detection cable + manual mechanical pull station at kitchen exit.
+- Interlock Capabilities: Integrated automatic gas shut-off valve, electrical breaker trip, and building Fire Alarm Control Panel (FACP) linkage.
+- Protection Zones: Dedicated discharge coverage for deep fryers, griddles, charbroilers, wok ranges, hood plenums, grease filters, and exhaust ductwork.
+- Cylinder Options: High-strength stainless steel cylinders in 1.5 Gallon, 3.0 Gallon, and 6.0 Gallon capacities.
+## Kitchen Fire Suppression Price Guide in Pakistan
+Project pricing varies based on kitchen hood length, duct dimensions, total cooking appliances under the hood, and certification requirements.
+## Key Applications
+Commercial wet chemical hood suppression systems are essential infrastructure for high-risk food service environments:
+- Restaurants, Fast Food Outlets & Cloud Kitchens
+- Hotel Kitchens, Mess Halls & Banquet Facilities
+- Bakeries, Industrial Fryer Lines & Food Processing Plants
+- Shopping Mall Food Courts & Cafeterias
+- Hospital, University & Corporate Dining Facilities
+## System Servicing & Preventive Maintenance
+To ensure continuous operation and pass municipal safety audits, Apex Fire Safety provides comprehensive maintenance services:
+- Semi-Annual Inspection: Inspection of fusible links, mechanical pull stations, cylinder pressure, and nozzle alignment.
+- Fusible Link Replacement: Mandatory replacement of heat-sensitive links to prevent false triggers or failure.
+- Chemical Refilling & Hydrostatic Testing: Full agent recharging and cylinder pressure testing following any discharge event.
+- Gas Valve & Interlock Testing: Verifying automatic fuel shut-off functionality during emergency simulation.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety (apexfiresafety.pk) is your trusted turn-key partner for commercial hospitality and food sector fire protection across Pakistan.
+- NFPA 96 & UL 300 Compliance: Expert design and installation ensuring complete alignment with global safety standards and insurance requirements.
+- Turn-Key Installation: End-to-end delivery including CAD nozzle layouts, pipe fitting, stainless steel conduit installation, and system testing.
+- Nationwide Service: Qualified engineering teams providing rapid installation, maintenance, and refilling services across Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, and Peshawar.
+Contact Apex Fire Safety today at apexfiresafety.pk to schedule a technical site inspection or request a quote for your kitchen fire suppression system.
+
+@@ Water Fire Suppression Systems
+features: Key specifications
++ System Types: Sprinkler System, Water Mist System, Deluge System, Pre-action System
++ Extinguishing Method: Uses water to control and suppress fires through cooling and oxygen displacement
++ Activation: Automatic and manual options available
++ Nozzle Types: Standard spray, mist, deluge, and concealed sprinklers
++ Water Pressure: Varies based on system design
++ Coverage Areas: Commercial buildings, industrial facilities, warehouses
++ Standards & Certifications: NFPA 13, NFPA 750, UL Listed, FM Approved
+title: Automatic Water Fire Suppression Systems (Sprinkler, Water Mist & Deluge Systems)
+Protect your commercial complex, industrial facility, warehouse, or high-rise residential building with Automatic Water Fire Suppression Systems from Apex Fire Safety. Engineered for immediate thermal response, water-based fire protection systems remain the world’s most trusted and cost-effective defense against structural fires—delivering rapid flame cooling, fire containment, and structural heat shielding.
+As a premier turn-key fire protection contractor in Pakistan, Apex Fire Safety provides complete NFPA-compliant design, engineering, supply, installation, testing, commissioning, and maintenance services for water-based fire suppression systems across Karachi, Lahore, Islamabad, Rawalpindi, Multan, Faisalabad, and major industrial hubs.
+## Types of Water Fire Suppression Systems We Offer
+Depending on your facility layout, fire hazard classification, and environmental sensitivity, Apex Fire Safety designs and installs three main categories of water-based suppression systems:
+- Fire Sprinkler Systems (Wet Pipe & Dry Pipe): Wet Pipe Systems: The most common configuration, featuring pipes constantly filled with pressurized water for instant discharge when heat shatters a sprinkler bulb. Dry Pipe & Pre-Action Systems: Designed for freezing environments or sensitive storage areas (such as cold storages or electronic warehouses) where pipes remain filled with pressurized air or nitrogen until detection triggers water release, preventing accidental leaks.
+- Water Mist Fire Suppression Systems: Utilizes ultra-fine, high-pressure water droplets (mist) to extinguish fires using up to 80% less water than traditional sprinklers. Rapidly evaporates to absorb extreme heat and displace oxygen at the flame base, making it ideal for machinery spaces, turbine enclosures, generator rooms, and heritage buildings.
+- Deluge Fire Suppression Systems: Features open spray nozzles connected to a piping network controlled by a deluge valve. Upon detection signal, the valve opens to discharge massive volumes of water simultaneously across all nozzles, providing high-velocity flooding for high-risk hazards such as chemical storage, transformer yards, and fuel loading racks.
+## Why Choose Apex Fire Safety Pakistan?
+Apex Fire Safety (apexfiresafety.pk) is your trusted partner for complete turn-key fire fighting systems.
+- NFPA & Local Code Compliance: Certified engineering designs tailored to international and Pakistani building codes.
+- Complete Turn-Key Delivery: From CAD layout drafting, hydraulic software calculations, and pipe welding to final pressure testing and commissioning.
+- Top-Tier Equipment: Utilization of UL/FM-approved valves, pumps, pipes, and sprinkler heads.
+- Nationwide Coverage: Expert installation and maintenance teams serving Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, and all industrial estates across Pakistan.
+Contact Apex Fire Safety today at apexfiresafety.pk to schedule a technical site evaluation or request an engineering quote for your water fire suppression system.
+
+@@ 2 Zone Panel
+lead: LPCB certified to EN54-2/4, the Context Plus 2 Zone CFP Panel conventional fire alarm panel offers exceptional functionality at a competitive price. Designed for ease of use and installation, it comes in an attractive flush or surface-mountable plastic enclosure.
+lead: Key features include two detector zones, four conventional sounder circuits, class change and alert inputs, on-board fire and fault relays, and a combined keypad/keyswitch entry for secure access.
+lead: The panel also offers a range of engineering functions, such as selectable zone delays, coincidence detection, and non-latching zone options. Additionally, comprehensive testing and fault-finding capabilities ensure optimal performance.
+lead: For enhanced flexibility, optional repeaters and relay expansion boards are available.
+title: 2 Zone Panel
+Context Plus 2 Zone Panel is LPCB certified to the latest versions of EN54-2/4.
+## Key features
+- Intuitive, user-friendly interface with colour-coded buttons and combined keypad/keyswitch entry to access level 2
+- 2, 4 or 8 zone circuits (dependent on model purchased)
+- Four conventional sounder circuits
+- Integral 1.5A EN54-4/A2 compliant switch mode PSU
+- Wide range of engineering functions including zone test, coincidence*, zone delay and non-latching zones*
+- Two on-board relays (fire and fault)
+- LPCB Ref. 176B-(CL-2) to BS EN 54 pts 2 & 4
+- Installer-friendly design accommodates easy first fix and straightforward maintenance
+- Attractive flush or surface mountable plastic lid and enclosure – no bezel required
+- Low quiescent current
+- Multiple indicators
+- End of line units included (one per zone)
+- Ancillary system expansion connections provided for up to eight two-wire repeaters (one CFP761 network driver card required per system) and optional CFP relay boards
+- Two open-collector outputs (Remote and Reset)
+- ‘Class change’ and alert inputs
+In a nutshell, the Context Plus 2 Zone Panel is all you need for your compact premises.
+
+@@ 4 Zone Panel
+lead: LPCB certified to EN54-2/4, Apex Fire Safety provides the Context Plus CFP 4-zone conventional fire alarm panel, which offers an array of user and installer-friendly features at a very competitive price.
+lead: Supplied in an attractive flush or surface mountable plastic enclosure, it includes four detector zones, four conventional sounder circuits, class change and alert inputs, on-board fire and fault relays and combined keypad/keyswitch entry.
+lead: A wide range of engineering functions are also provided including selectable zone delays, coincidence and non-latching zone facilities. Comprehensive test and fault finding facilities are also provided.
+lead: Optional repeaters and relay expansion boards are also available.
+title: 4 Zone Panel
+Context Plus 4 Zone Panel is LPCB certified to EN54-2/4. Apex Fire Safety provides the Context Plus CFP 4-zone conventional fire alarm panel, which offers an array of user and installer-friendly features at a very competitive price.
+## Key Feature (Context Plus 4 Zone Panel)
+- LPCB certified to the latest versions of EN54-2/4
+- Intuitive user-friendly interface with colour-coded buttons and combined keypad/keyswitch entry to access level 2
+- 2, 4 or 8 zone circuits (dependent on model purchased)
+- Four conventional sounder circuits
+- LPCB Ref. 176b-(Cl-2) to BS EN 54 pts 2 & 4
+- End of line units included (one per zone)
+- Ancillary system expansion connections provided for up to eight two-wire repeaters (one CFP761 network driver card required per system) and optional CFP relay boards
+- Two open-collector outputs (Remote and Reset)
+- ‘Class change’ and alert inputs
+
+@@ 8 Zone Panel
+lead: LPCB certified to EN54-2/4, Context Plus’s CFP 8 zone conventional fire alarm panel offers an array of user and installer-friendly features at a very competitive price.
+lead: Supplied in an attractive flush or surface mountable plastic enclosure, it includes eight detector zones, four conventional sounder circuits, class change and alert inputs, on-board fire and fault relays and combined keypad/keyswitch entry.
+lead: A wide range of engineering functions are also provided including selectable zone delays, coincidence and non-latching zone facilities. Comprehensive test and fault finding facilities are also provided.
+lead: Optional repeaters and relay expansion boards are also available.
+title: 8 Zone Panel
+Context Plus 8 Zone Panel is designed and manufactured in the United Kingdom. The Context Plus fire alarm brand is owned by IMCI (Services) Limited. The 8 Zone Panel Context Plus is a conventional panel capable of handling around 240 devices to include smoke and heat detectors, manual call point and notification devices.
+## 8 Zone Panel – Specifications
+- 8 Zone Panel is LPCB certified to the latest versions of EN54-2/4
+- Intuitive user-friendly interface with colour-coded buttons and combined keypad/keyswitch entry to access level 2
+- 2, 4 or 8 zone circuits (dependent on model purchased)
+- Four conventional sounder circuits
+- Integral 1.5A EN54-4/A2 compliant switch mode PSU
+- Wide range of engineering functions including zone test, coincidence*, zone delay and non-latching zones*
+- Two on-board relays (fire and fault)
+- LPCB Ref. 176B-(CL-2) to BS EN 54 pts 2 & 4
+In conclusion, the 8 Zone Panel Context Plus is a conventional fire alarm system panel which can handle large area properties very economically without getting into the intricacies of an addressable fire alarm system.
+
+@@ Addressable 1 Loop Panel
+features: Key features
++ Third-party certified to EN54-2/4 by the Loss Prevention Certification Board (LPCB).
++ Compatibility with Context Plus addressable detectors and devices.
++ Two independently programmable conventional sounder circuits.
++ Two programmable inputs.
++ A fault output relay and three programmable relay outputs with voltage free changeover contacts.
++ A selection of zone dependency/coincidence functions.
++ A day/night (building occupied/unoccupied) function.
++ An investigation delay period function.
++ Phased evacuation facility.
++ An alarm counter that records how many times the panel has been in alarm state.
+title: Addressable 1 Loop Panel
+Context Plus Addressable 1 Loop Panel is certified to EN54 parts 2 & 4 by the LPCB, the XFP Range of addressable fire panels offers high performance at a competitive price. Available in two different versions (a cost-effective single loop 16 zone panel in a plastic enclosure and a robust 1 or 2 loop 32 zone metal panel), the range offers an array of user and installer-friendly features.
+The price of a fire alarm system can vary widely depending on a number of factors, including the size of the building, the number of devices (such as smoke detectors, heat sensors, and manual pull stations) needed, the complexity of the system (e.g., whether it needs to be connected to a central monitoring station or has other special features), and the installation costs. Larger and more complex systems tend to cost more.
+
+@@ Addressable 2 Loop Panel
+features: Key features
++ Third-party certified to EN54-2/4 by the Loss Prevention Certification Board (LPCB).
++ Compatibility with Context Plus addressable detectors and devices.
++ Two independently programmable conventional sounder circuits.
++ Two programmable inputs.
++ A fault output relay and three programmable relay outputs with voltage free changeover contacts.
++ A selection of zone dependency/coincidence functions.
++ A day/night (building occupied/unoccupied) function.
++ An investigation delay period function.
++ Phased evacuation facility.
++ An alarm counter that records how many times the panel has been in alarm state.
+title: Addressable 2 Loop Panel
+Context Plus Addressable 2 Loop Panel is certified to EN54 parts 2 & 4 by the LPCB, the XFP Range of addressable fire panels offers high performance at a competitive price. Available in two different versions (a cost-effective single loop 16 zone panel in a plastic enclosure and a robust 1 or 2 loop 32 zone metal panel), the range offers an array of user and installer-friendly features.
+The price of a fire alarm system can vary widely depending on a number of factors, including the size of the building, the number of devices (such as smoke detectors, heat sensors, and manual pull stations) needed, the complexity of the system (e.g., whether it needs to be connected to a central monitoring station or has other special features), and the installation costs. Larger and more complex systems tend to cost more.
+
+@@ Addressable Heat Detector
+features: Key features
++ Resists steam and cigarette smoke
++ Flashing LED option
++ Five response modes for adaptability to changing environments
++ Drift compensation to ensure constant sensitivity
++ Capable of recording site specific data in the detector
++ Alarm flags for fast alarm reporting
++ Conventional alarm facility during control panel processor fault
++ 360° visibility alarm indication
+
+@@ UL Listed Conventional Heat Detector
+lead: Apex Fire Safety provides the Context Plus Series 65A Heat Detector, designed to monitor temperature using a dual thermistor network that delivers a voltage output proportional to the external air temperature. Ideal for environments where smoke detectors are unsuitable, it is perfect for areas that are naturally dirty or smoky. With a wide operating voltage and a flashing LED indicator, this heat detector ensures reliable fire detection and safety.
+title: Description
+A fire alarm system is a crucial safety component for residential, commercial, and industrial spaces. Among the top-rated brands Context Plus Fire Alarm System is known for its reliability, advanced features, and efficiency in detecting fire hazards.
+
+@@ Addressable Sounder Con 430
+features: Key features
++ The Context Plus Addressable Sounder with Deep base is third-party certified to EN54-3 (Sounders) and 17 (Isolators) by the LPCB.
++ Impressive 103dB(A) sound output @ 1m.
++ Onboard short-circuit loop isolator.
++ 550µA quiescent current.
++ 5mA alarm current @24V DC (sounder on max).
++ Group addressing facility allows multiple devices to be operated simultaneously.
++ 7 selectable volume levels and up to 15 selectable tone pairs.
++ IP33C (Type A) rated.
+
+@@ Addressable Sounder Flasher 58000-011
+features: Key features
++ The Context Plus Addressable Sounder Flasher with Deep base is third-party certified to EN54-3 (Sounders), EN54-23 (VADs) and 17 (Isolators) by the LPCB.
++ Provides ‘W-2.4-8.2’ light distribution when wall mounted (min 0.4 lux over a 2.4m x8.2m cuboid area).
++ Impressive 103dB(A) sound output @ 1m.
++ Onboard short-circuit loop isolator.
++ 550µA quiescent current.
++ 14.5mA alarm current @24V DC (VAD lit, sounder on max).
++ Group addressing facility allows multiple devices to be operated simultaneously.
++ 7 selectable volume levels and up to 15 selectable tone pairs.
++ IP33C (Type B) rated.
+
+@@ Weatherproof Conventional Combined fire Sounder
+features: Key features
++ 24VDC EN54 compliant Conventional Combined Sounder with Beacon
++ Polycarbonate Fresnel lens.
++ Voltage range 20 to 28V DC
++ Automatic sounder synchronization.
++ High sound output, low current consumption.
++ 4 On-board selectable tones.
++ Adjustable volume control screw.
++ High reliability and stable performance.
++ High brightness LED.
++ Full EN54 compliance.
++ IP65 rated
+
+@@ Addressable Smoke Detector
+features: Key features
++ Resists steam and cigarette smoke
++ Flashing LED option
++ Five response modes for adaptability to changing environments
++ Drift compensation to ensure constant sensitivity
++ Capable of recording site specific data in the detector
++ Alarm flags for fast alarm reporting
++ Conventional alarm facility during control panel processor fault
++ 360° visibility alarm indication
+
+@@ UL Listed Conventional Optical Smoke Detector
+lead: Apex Fire Safety provides the Context Plus Series 65A Photo-Electric Smoke Detector, designed for reliable fire detection. This advanced detector features a pulsing LED within its housing and responds effectively to slow-burning, smouldering fires. Ideal for bedrooms and escape routes, it remains unaffected by wind or atmospheric pressure. With a wide operating voltage and a flashing LED indicator, it ensures enhanced safety and performance.
+title: Description
+A fire alarm system is a crucial safety component for residential, commercial, and industrial spaces. Among the top-rated brands Context Plus Fire Alarm System is known for its reliability, advanced features, and efficiency in detecting fire hazards.
+
+@@ Addressable Manual Call Point
+features: Key features
++ Resettable operating element
++ Easy access, front reset mechanism
++ E-Z fit connector system for installation
++ Ergonomic reset key
++ EN 54-11 and EN 54-17 Certified. LPCB approved.
++ 170° viewable LED
++ Continuity link for cable insulation testing
++ Suitable for semi flush or surface mounting
++ Incorporates a short circuit isolator
+
+@@ Conventional Manual Call Point
+features: Key features
++ Resettable Manual call Point fitted with Transparent Protective Polycarbonate Cover.
++ Double terminal wire connectors for independent input and output connections which facilitate installations when used in looping.
++ No glass elements to break, lose or incorrectly fit when installing.
++ Complete functional test with every activation.
++ Virtually maintenance free.
++ Easy Reset operation with a simple key.
++ Thread protection plugs are provided to protect the brass inserts on the base box (when conceal fixing is needed).
++ 3/4″Ø pre-opened conduit entries from top, bottom and the back are provided for extra convenience.
++ The casings are moulded from specially selected engineering plastic with high impact strength, high resistance to heat.
++ All metal parts are made of brass and phosphor bronze to ensure life long resistance against corrosion.
++ Colour matching polythene plugs for conduit entries are included.
++ Suitable for surface or flush mounting.
++ Comply BS5839 Part 2 and EN54 Part 11.

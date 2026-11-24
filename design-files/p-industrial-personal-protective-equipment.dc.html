@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Industrial &amp; Personal Protective Equipment</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="ProductPage" item="{{ item }}" hint-size="100%,1500px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1500}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { item: {
+      "name": "Industrial & Personal Protective Equipment",
+      "cat": "Personal Protective Equipment (PPE)",
+      "catPage": "c-ppe.dc.html",
+      "price": "",
+      "desc": "Full-body suits, helmets and gloves for hazard zones such as factories and oil rigs. Flame-retardant fabrics and multi-hazard ratings.",
+      "details": [],
+      "related": [
+        {
+          "name": "Fire Protective Clothing & Accessories",
+          "page": "p-fire-protective-clothing-accessories.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Fire-Protective-Clothing-Accessories.jpg"
+        },
+        {
+          "name": "Breathing Apparatus & Gas Masks",
+          "page": "p-breathing-apparatus-gas-masks.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Breathing-Apparatus-Gas-Masks.jpg"
+        },
+        {
+          "name": "Fire Safety Gloves",
+          "page": "p-fire-safety-gloves.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/fire-safety-gloves.jpg"
+        }
+      ],
+      "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Industrial-Personal-Protective-Equipment.jpg"
+    } };
+  }
+}
+</script>
+</body>
+</html>

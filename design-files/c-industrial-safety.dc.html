@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Industrial Safety</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="CategoryPage" cat="{{ cat }}" hint-size="100%,2900px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":2900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { cat: {
+      "title": "Industrial Safety",
+      "crumbs": [],
+      "subs": [],
+      "groups": [
+        {
+          "title": "Fire Hose & Hydrant Systems",
+          "items": [
+            {
+              "name": "Fire Fighting Pumps",
+              "page": "p-fire-fighting-pumps.dc.html",
+              "price": "",
+              "desc": "Automatic pump sets (electric main, diesel backup and jockey pump) supplying water to sprinkler, hydrant, hose reel and deluge systems.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Fire-Fighting-Pump-in-pakistan-768x768-1.webp"
+            },
+            {
+              "name": "Fire Hose Nozzles",
+              "page": "p-fire-hose-nozzles.dc.html",
+              "price": "",
+              "desc": "Attaches to the end of a fire hose to control and direct water flow.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Fire-Hose-Nozzle-768x768-1.webp"
+            },
+            {
+              "name": "Fire Hose Pipe",
+              "page": "p-fire-hose-pipe.dc.html",
+              "price": "",
+              "desc": "Flexible, high-pressure hose delivering water or foam for firefighting.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/hose-pipe-500x500-1.webp"
+            },
+            {
+              "name": "Fire Hose Reel Cabinet",
+              "page": "p-fire-hose-reel-cabinet.dc.html",
+              "price": "",
+              "desc": "Protective enclosure that keeps hose reels ready for emergencies.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Fire-Hose-Reel-Cabinet-in-Pakistan.webp"
+            },
+            {
+              "name": "Fire Hydrant Valve",
+              "page": "p-fire-hydrant-valve.dc.html",
+              "price": "",
+              "desc": "Heavy-duty landing valve controlling high-pressure water flow on risers, hose cabinets and hydrants.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Fire-Hydrant-Valve-in-Pakistan-1.webp"
+            },
+            {
+              "name": "Pillar Fire Hydrant",
+              "page": "p-pillar-fire-hydrant.dc.html",
+              "price": "",
+              "desc": "Above-ground hydrant for perimeter fire mains and industrial sites.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Pillar-Fire-Hydrant-in-Pakistan-768x768-1.webp"
+            }
+          ]
+        },
+        {
+          "title": "Fire Doors & Emergency Exits",
+          "items": [
+            {
+              "name": "Fire Exit Doors",
+              "page": "p-fire-exit-doors.dc.html",
+              "price": "",
+              "desc": "Passive fire protection that contains fire and gives occupants time to escape.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Double-Leaf-Fire-Door.webp"
+            }
+          ]
+        },
+        {
+          "title": "Automatic Fire Extinguishing Systems",
+          "items": [
+            {
+              "name": "FM 200 Fire Suppression",
+              "page": "p-fm-200-fire-suppression.dc.html",
+              "price": "",
+              "desc": "Automatic clean-agent system for data centers, server rooms and critical facilities.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/FM200-System.webp"
+            },
+            {
+              "name": "Kitchen Fire Suppression System",
+              "page": "p-kitchen-fire-suppression-system.dc.html",
+              "price": "",
+              "desc": "Automatic wet chemical system for commercial kitchen hoods, restaurants, hotels and food processing.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/26.webp"
+            },
+            {
+              "name": "Water Fire Suppression Systems",
+              "page": "p-water-fire-suppression-systems.dc.html",
+              "price": "",
+              "desc": "Automatic water-based suppression for commercial, industrial and high-rise buildings.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/images-18.webp"
+            }
+          ]
+        }
+      ]
+    } };
+  }
+}
+</script>
+</body>
+</html>

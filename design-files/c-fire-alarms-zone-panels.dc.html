@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Zone Panels</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="CategoryPage" cat="{{ cat }}" hint-size="100%,1300px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1300}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { cat: {
+      "title": "Zone Panels",
+      "crumbs": [
+        {
+          "t": "Fire Alarms",
+          "page": "c-fire-alarms.dc.html"
+        }
+      ],
+      "subs": [],
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "2 Zone Panel",
+              "page": "p-2-zone-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/2-Zone-CFP-Panel-context-plus.webp"
+            },
+            {
+              "name": "4 Zone Panel",
+              "page": "p-4-zone-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/4-Zone-CFP-Panel-context.webp"
+            },
+            {
+              "name": "8 Zone Panel",
+              "page": "p-8-zone-panel.dc.html",
+              "price": "",
+              "desc": "",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/4-Zone-CFP-Panel-context-1.webp"
+            }
+          ]
+        }
+      ]
+    } };
+  }
+}
+</script>
+</body>
+</html>

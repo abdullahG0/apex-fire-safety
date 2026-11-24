@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Our Products</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="CategoryPage" cat="{{ cat }}" hint-size="100%,1500px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1500}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { cat: {
+      "title": "Our Products",
+      "crumbs": [],
+      "subs": [],
+      "hidePrice": true,
+      "root": true,
+      "cta": "Browse category",
+      "countNoun": "categories",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "Fire Extinguishers",
+              "page": "c-fire-extinguishers.dc.html",
+              "price": "",
+              "desc": "6 products",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/foam.webp"
+            },
+            {
+              "name": "Industrial Safety",
+              "page": "c-industrial-safety.dc.html",
+              "price": "",
+              "desc": "10 products",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Fire-Fighting-Pump-in-pakistan-768x768-1.webp"
+            },
+            {
+              "name": "Fire Alarms",
+              "page": "c-fire-alarms.dc.html",
+              "price": "",
+              "desc": "20 products",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Smoke-Heat-Detectors3.jpg"
+            },
+            {
+              "name": "Personal Protective Equipment (PPE)",
+              "page": "c-ppe.dc.html",
+              "price": "",
+              "desc": "4 products",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Fire-Protective-Clothing-Accessories.jpg"
+            },
+            {
+              "name": "CCTV Cameras",
+              "page": "c-cctv-cameras.dc.html",
+              "price": "",
+              "desc": "8 products",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/VHD-DOME.jpg"
+            },
+            {
+              "name": "Emergency Lights",
+              "page": "c-emergency-lights.dc.html",
+              "price": "",
+              "desc": "1 product",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Emergency-Lighting-Safety-Signs.jpg"
+            }
+          ]
+        }
+      ]
+    } };
+  }
+}
+</script>
+</body>
+</html>

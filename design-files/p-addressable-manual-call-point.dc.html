@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Addressable Manual Call Point</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="ProductPage" item="{{ item }}" hint-size="100%,1900px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { item: {
+      "name": "Addressable Manual Call Point",
+      "cat": "Fire Alarms",
+      "catPage": "c-fire-alarms.dc.html",
+      "price": "",
+      "desc": "",
+      "details": [],
+      "related": [
+        {
+          "name": "Conventional Manual Call Point",
+          "page": "p-conventional-manual-call-point.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Conventional-Fire-Call-Point.webp"
+        },
+        {
+          "name": "Smoke & Heat Detectors (Conventional Fire Alarm Systems)",
+          "page": "p-smoke-heat-detectors-conventional-fire-alarm-systems.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Smoke-Heat-Detectors3.jpg"
+        },
+        {
+          "name": "Conventional Fire Alarm Panels",
+          "page": "p-conventional-fire-alarm-panels.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/09/Addressable-Fire-Alarm-Systems.jpg"
+        },
+        {
+          "name": "Addressable Fire Alarm Systems",
+          "page": "p-addressable-fire-alarm-systems.dc.html",
+          "price": "",
+          "img": "https://apexfiresafety.pk/wp-content/uploads/2025/10/addressable-fire-alram.jpg"
+        }
+      ],
+      "features": [
+        "Resettable operating element",
+        "Easy access, front reset mechanism",
+        "E-Z fit connector system for installation",
+        "Ergonomic reset key",
+        "EN 54-11 and EN 54-17 Certified. LPCB approved.",
+        "170° viewable LED",
+        "Continuity link for cable insulation testing",
+        "Suitable for semi flush or surface mounting",
+        "Incorporates a short circuit isolator"
+      ],
+      "featuresTitle": "Key features",
+      "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Addressable-Call-Point-Resettable.webp"
+    } };
+  }
+}
+</script>
+</body>
+</html>

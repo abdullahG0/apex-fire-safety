@@ -1,0 +1,503 @@
+[
+ {
+  "id": "fire-extinguishers",
+  "name": "Fire Extinguishers",
+  "intro": "Protect your property and lives with APEX FIRE SAFETY's portable and trolley-mounted fire extinguishers. Certified for fire classes A, B, C, D and K, and suitable for residential, commercial and industrial use.",
+  "groups": [
+   {
+    "title": "",
+    "items": [
+     {
+      "name": "AFFF Fire Extinguishers",
+      "price": "₨ 3,500 – ₨ 4,500",
+      "desc": "Foam extinguisher for fuel stations, warehouses, factories, airports and commercial buildings.",
+      "details": [
+       "Fire classes: A and B",
+       "Sizes: 6 L, 9 L portable · 25 L, 50 L trolley",
+       "Prices vary with certification (CE / EN3 / ISO) and quantity",
+       "Discharge: 20–60 seconds, 3–5 m range",
+       "Pressure: 12–15 bar, nitrogen propellant",
+       "Temperature: +5°C to +55°C",
+       "Not for live electrical equipment or deep-fat fryers"
+      ]
+     },
+     {
+      "name": "CO2 Fire Extinguishers",
+      "price": "₨ 7,000 – ₨ 12,000",
+      "desc": "For electrical panels, servers, IT equipment and flammable liquid fires. Leaves no residue.",
+      "details": [
+       "Fire classes: B and C",
+       "Sizes: 2 kg, 3 kg, 5 kg portable · 9 kg, 22.5 kg, 45 kg trolley",
+       "Discharge: 8–15 seconds, 2–4 m range",
+       "Pressure: 50–60 bar",
+       "Temperature: −20°C to +55°C",
+       "Non-conductive horn",
+       "Not effective on deep-seated Class A fires"
+      ]
+     },
+     {
+      "name": "DCP Fire Extinguisher",
+      "price": "₨ 1,500 – ₨ 7,500",
+      "desc": "Multi-purpose dry chemical powder (monoammonium phosphate) for plants, warehouses, offices, commercial buildings and vehicles.",
+      "details": [
+       "Fire classes: A, B and C",
+       "Sizes: 1–12 kg portable · 25, 50, 75 kg trolley",
+       "Discharge: 8–20 seconds, 3–5 m range",
+       "Pressure: 12–15 bar, nitrogen propellant",
+       "Temperature: −20°C to +55°C",
+       "Not for servers, commercial kitchens (Class F) or combustible metals (Class D)"
+      ]
+     },
+     {
+      "name": "Halotron Fire Extinguishers",
+      "price": "₨ 11,000 – ₨ 40,000",
+      "desc": "Clean agent extinguisher for data centers, labs, server rooms, museums, hangars and hospitals. Non-conductive, no residue.",
+      "details": [
+       "Fire classes: A, B and C",
+       "Sizes: 2, 4, 6, 9 kg portable · 25, 45 kg trolley",
+       "Discharge: 10–20 seconds, 3–5 m range",
+       "Temperature: −20°C to +55°C",
+       "Safe for live electrical fires"
+      ]
+     },
+     {
+      "name": "Water Fire Extinguishers",
+      "price": "₨ 3,000 – ₨ 4,000",
+      "desc": "Cost-effective, eco-friendly Class A extinguisher for offices, schools, warehouses and homes.",
+      "details": [
+       "Fire class: A",
+       "Sizes: 6 L, 9 L portable · 45 L, 50 L trolley",
+       "Discharge: 30–60 seconds, 4–6 m range",
+       "Pressure: 12–15 bar",
+       "Temperature: +5°C to +55°C",
+       "Not for live electrical, flammable liquid or cooking oil fires"
+      ]
+     },
+     {
+      "name": "Wet Chemical Fire Extinguishers",
+      "price": "₨ 5,000 – ₨ 9,000",
+      "desc": "Potassium-based solution for commercial kitchens, restaurants, cafeterias and food processing units.",
+      "details": [
+       "Fire class: F (and A)",
+       "Sizes: 2 L, 3 L, 6 L portable",
+       "Discharge: 30–60 seconds, 3–4 m range",
+       "Temperature: +5°C to +60°C",
+       "Not for Class B flammable liquid fires"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "industrial-safety",
+  "name": "Industrial Safety",
+  "intro": "Our industrial safety range of PPE, fire-resistant gear and emergency tools is built to protect workers in high-risk environments.",
+  "groups": [
+   {
+    "title": "Fire Hose & Hydrant Systems",
+    "items": [
+     {
+      "name": "Fire Fighting Pumps",
+      "price": "",
+      "desc": "Automatic pump sets (electric main, diesel backup and jockey pump) supplying water to sprinkler, hydrant, hose reel and deluge systems.",
+      "details": [
+       "Flow rate: 500 to 10,000 GPM",
+       "Pressure: 50 to 250 PSI",
+       "Power: electric, diesel or dual",
+       "Motor power: 20 HP to 300 HP",
+       "Materials: cast iron or stainless steel",
+       "Compliance: NFPA 20, UL Listed"
+      ]
+     },
+     {
+      "name": "Fire Hose Nozzles",
+      "price": "",
+      "desc": "Attaches to the end of a fire hose to control and direct water flow.",
+      "details": [
+       "Types: jet (smooth bore), fog, adjustable/combination, automatic pressure-balancing",
+       "Heavy-duty brass or lightweight aluminum",
+       "Fits canvas hoses, rubberized fire hoses and landing valves"
+      ]
+     },
+     {
+      "name": "Fire Hose Pipe",
+      "price": "",
+      "desc": "Flexible, high-pressure hose delivering water or foam for firefighting.",
+      "details": [
+       "Types: lay-flat, rubber, double-jacket and suction",
+       "Heat-resistant, corrosion and abrasion resistant",
+       "Available in various lengths and diameters"
+      ]
+     },
+     {
+      "name": "Fire Hose Reel Cabinet",
+      "price": "",
+      "desc": "Protective enclosure that keeps hose reels ready for emergencies.",
+      "details": [
+       "Heavy-duty steel or stainless steel",
+       "Indoor or outdoor use, corrosion and weather resistant",
+       "Locking system with quick emergency access",
+       "Wall-mounted or recessed",
+       "Red powder-coated, stainless steel or custom colors"
+      ]
+     },
+     {
+      "name": "Fire Hydrant Valve",
+      "price": "",
+      "desc": "Heavy-duty landing valve controlling high-pressure water flow on risers, hose cabinets and hydrants.",
+      "details": [
+       "Types: right-angle, oblique, bib-nose, horizontal",
+       "Inlet: 2.5-inch (DN65), flanged or threaded",
+       "Outlet: 65 mm BS336 instantaneous female",
+       "Working pressure: 15 bar (217 psi)",
+       "Single-unit and bulk pricing with nationwide delivery"
+      ]
+     },
+     {
+      "name": "Pillar Fire Hydrant",
+      "price": "",
+      "desc": "Above-ground hydrant for perimeter fire mains and industrial sites.",
+      "details": [
+       "Type: wet barrel or dry barrel",
+       "Sizes: DN 80 mm, 100 mm, 150 mm",
+       "Outlets: dual 2.5-inch BS336 instantaneous female",
+       "Working pressure: 10–16 bar",
+       "Signal red (RAL 3000)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Fire Doors & Emergency Exits",
+    "items": [
+     {
+      "name": "Fire Exit Doors",
+      "price": "",
+      "desc": "Passive fire protection that contains fire and gives occupants time to escape.",
+      "details": [
+       "Wall openings: 900 / 1000 × 2050, 2100, 2150 mm",
+       "Door leaf: 63 mm thick, 0.80 mm galvanised steel",
+       "Frame: 1.50 mm galvanised steel",
+       "Powder coated, standard RAL 9002 or custom RAL colors"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Automatic Fire Extinguishing Systems",
+    "items": [
+     {
+      "name": "FM 200 Fire Suppression",
+      "price": "",
+      "desc": "Automatic clean-agent system for data centers, server rooms and critical facilities.",
+      "details": [
+       "Agent: HFC-227ea (FM-200)",
+       "Discharge: under 10 seconds",
+       "No residue, no cleanup",
+       "Safe for occupied spaces at design concentrations",
+       "Design basis: NFPA 2001 and ISO 14520"
+      ]
+     },
+     {
+      "name": "Kitchen Fire Suppression System",
+      "price": "",
+      "desc": "Automatic wet chemical system for commercial kitchen hoods, restaurants, hotels and food processing.",
+      "details": [
+       "Cylinder sizes: 1.5, 3.0 and 6.0 gallon stainless steel",
+       "Automatic thermal release plus manual pull station",
+       "Gas shut-off and electrical breaker trip interlocks",
+       "Standards: UL 300, NFPA 96 / 17A"
+      ]
+     },
+     {
+      "name": "Water Fire Suppression Systems",
+      "price": "",
+      "desc": "Automatic water-based suppression for commercial, industrial and high-rise buildings.",
+      "details": [
+       "Systems: sprinkler, water mist, deluge, pre-action",
+       "Automatic or manual activation",
+       "Standards: NFPA 13, NFPA 750, UL Listed, FM Approved"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fire-alarms",
+  "name": "Fire Alarms",
+  "intro": "",
+  "groups": [
+   {
+    "title": "Fire alarm systems",
+    "items": [
+     {
+      "name": "Smoke & Heat Detectors (Conventional Fire Alarm Systems)",
+      "price": "",
+      "desc": "Optical smoke and fixed-temperature heat sensors that give early fire warning. Suited to bedrooms, kitchens and garages.",
+      "details": []
+     },
+     {
+      "name": "Conventional Fire Alarm Panels",
+      "price": "",
+      "desc": "Zoned panels with radial wiring for basic monitoring at small sites, with 2–32 zones and battery backup.",
+      "details": []
+     },
+     {
+      "name": "Addressable Fire Alarm Systems",
+      "price": "",
+      "desc": "Loop-wired networks for large facilities, where each device has a unique ID for precise location.",
+      "details": []
+     },
+     {
+      "name": "Fire Alarm Bells & Sounders",
+      "price": "",
+      "desc": "Wall- or ceiling-mounted audible alerts for evacuation, with weatherproof options.",
+      "details": []
+     },
+     {
+      "name": "Horn / Strobe Flashers",
+      "price": "",
+      "desc": "Combined audible and visual units for inclusive alerts, including for hearing-impaired users.",
+      "details": []
+     },
+     {
+      "name": "Manual Call Points",
+      "price": "",
+      "desc": "Resettable break-glass stations that trigger alarms manually, rated weatherproof IP67.",
+      "details": []
+     }
+    ]
+   },
+   {
+    "title": "Zone Panels",
+    "items": [
+     {
+      "name": "2 Zone Panel",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "4 Zone Panel",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "8 Zone Panel",
+      "price": "",
+      "desc": "",
+      "details": []
+     }
+    ]
+   },
+   {
+    "title": "Loop Panel",
+    "items": [
+     {
+      "name": "Addressable 1 Loop Panel",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "Addressable 2 Loop Panel",
+      "price": "",
+      "desc": "",
+      "details": []
+     }
+    ]
+   },
+   {
+    "title": "Heat Detectors",
+    "items": [
+     {
+      "name": "Addressable Heat Detector",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "UL Listed Conventional Heat Detector",
+      "price": "",
+      "desc": "",
+      "details": []
+     }
+    ]
+   },
+   {
+    "title": "Sounders & Flashers",
+    "items": [
+     {
+      "name": "Addressable Sounder Con 430",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "Addressable Sounder Flasher 58000-011",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "Weatherproof Conventional Combined fire Sounder",
+      "price": "",
+      "desc": "",
+      "details": []
+     }
+    ]
+   },
+   {
+    "title": "Smoke Detectors",
+    "items": [
+     {
+      "name": "Addressable Smoke Detector",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "UL Listed Conventional Optical Smoke Detector",
+      "price": "",
+      "desc": "",
+      "details": []
+     }
+    ]
+   },
+   {
+    "title": "Call Points",
+    "items": [
+     {
+      "name": "Addressable Manual Call Point",
+      "price": "",
+      "desc": "",
+      "details": []
+     },
+     {
+      "name": "Conventional Manual Call Point",
+      "price": "",
+      "desc": "",
+      "details": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ppe",
+  "name": "Personal Protective Equipment (PPE)",
+  "intro": "",
+  "groups": [
+   {
+    "title": "",
+    "items": [
+     {
+      "name": "Fire Protective Clothing & Accessories",
+      "price": "",
+      "desc": "Layered Nomex or Kevlar ensembles with hoods and gloves for emergency responders. Thermal barriers, reflective trim and moisture-wicking.",
+      "details": []
+     },
+     {
+      "name": "Breathing Apparatus & Gas Masks",
+      "price": "",
+      "desc": "Self-contained SCBA sets with 30–60 minute air cylinders for toxic smoke, confined spaces and chemical fires. HUD displays, quick-connect masks and harness straps.",
+      "details": []
+     },
+     {
+      "name": "Fire Safety Gloves",
+      "price": "",
+      "desc": "Heat-resistant gloves with flame-retardant lining and reinforced grip for firefighting, industrial handling and rescue.",
+      "details": []
+     },
+     {
+      "name": "Industrial & Personal Protective Equipment",
+      "price": "",
+      "desc": "Full-body suits, helmets and gloves for hazard zones such as factories and oil rigs. Flame-retardant fabrics and multi-hazard ratings.",
+      "details": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cctv-cameras",
+  "name": "CCTV Cameras",
+  "intro": "",
+  "groups": [
+   {
+    "title": "",
+    "items": [
+     {
+      "name": "VHD Dome Camera",
+      "price": "",
+      "desc": "Compact indoor dome with HD monitoring, low-light performance and a vandal-resistant casing.",
+      "details": []
+     },
+     {
+      "name": "HD Bullet Camera",
+      "price": "",
+      "desc": "Long-range outdoor HD camera with infrared night vision and an IP66 weatherproof housing.",
+      "details": []
+     },
+     {
+      "name": "Wireless Wi-Fi Camera",
+      "price": "",
+      "desc": "Cable-free HD camera with motion alerts, two-way audio and remote access through mobile apps.",
+      "details": []
+     },
+     {
+      "name": "PTZ Security Camera",
+      "price": "",
+      "desc": "Pan, tilt and zoom camera for wide-area monitoring, with optical zoom and remote control.",
+      "details": []
+     },
+     {
+      "name": "4K Ultra HD Camera",
+      "price": "",
+      "desc": "4K camera with wide dynamic range, color night vision and smart motion detection.",
+      "details": []
+     },
+     {
+      "name": "Mini Indoor Camera",
+      "price": "",
+      "desc": "Small HD indoor camera with motion alerts, two-way audio and mobile app access.",
+      "details": []
+     },
+     {
+      "name": "Solar Powered Camera",
+      "price": "",
+      "desc": "Solar-charged outdoor camera with battery backup and wireless connectivity for remote sites.",
+      "details": []
+     },
+     {
+      "name": "Smart Doorbell Camera",
+      "price": "",
+      "desc": "HD doorbell camera with two-way audio, night vision and mobile notifications.",
+      "details": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "emergency-lights",
+  "name": "Emergency Lights",
+  "intro": "",
+  "groups": [
+   {
+    "title": "",
+    "items": [
+     {
+      "name": "Emergency Lighting & Safety Signs",
+      "price": "",
+      "desc": "Battery-backed LED guides with photoluminescent backups for low-visibility escape. 3-hour runtime, exit arrow signage and self-testing.",
+      "details": []
+     }
+    ]
+   }
+  ]
+ }
+]

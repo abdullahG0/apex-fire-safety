@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apex Fire Safety — Fire Extinguishers</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif}
+</style>
+</helmet>
+<dc-import name="CategoryPage" cat="{{ cat }}" hint-size="100%,1700px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1700}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { cat: {
+      "title": "Fire Extinguishers",
+      "crumbs": [],
+      "subs": [],
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "AFFF Fire Extinguishers",
+              "page": "p-afff-fire-extinguishers.dc.html",
+              "price": "₨ 3,500 – ₨ 4,500",
+              "desc": "Foam extinguisher for fuel stations, warehouses, factories, airports and commercial buildings.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/foam.webp"
+            },
+            {
+              "name": "CO2 Fire Extinguishers",
+              "page": "p-co2-fire-extinguishers.dc.html",
+              "price": "₨ 7,000 – ₨ 12,000",
+              "desc": "For electrical panels, servers, IT equipment and flammable liquid fires. Leaves no residue.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/co2-fire-extingusher.webp"
+            },
+            {
+              "name": "DCP Fire Extinguisher",
+              "page": "p-dcp-fire-extinguisher.dc.html",
+              "price": "₨ 1,500 – ₨ 7,500",
+              "desc": "Multi-purpose dry chemical powder (monoammonium phosphate) for plants, warehouses, offices, commercial buildings and vehicles.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/dcp-fire-extinguisher-500x500-1.webp"
+            },
+            {
+              "name": "Halotron Fire Extinguishers",
+              "page": "p-halotron-fire-extinguishers.dc.html",
+              "price": "₨ 11,000 – ₨ 40,000",
+              "desc": "Clean agent extinguisher for data centers, labs, server rooms, museums, hangars and hospitals. Non-conductive, no residue.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/China-Halotron-Fire-Extinguisher.webp"
+            },
+            {
+              "name": "Water Fire Extinguishers",
+              "page": "p-water-fire-extinguishers.dc.html",
+              "price": "₨ 3,000 – ₨ 4,000",
+              "desc": "Cost-effective, eco-friendly Class A extinguisher for offices, schools, warehouses and homes.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/China-Water-Fire-Extinguisher.webp"
+            },
+            {
+              "name": "Wet Chemical Fire Extinguishers",
+              "page": "p-wet-chemical-fire-extinguishers.dc.html",
+              "price": "₨ 5,000 – ₨ 9,000",
+              "desc": "Potassium-based solution for commercial kitchens, restaurants, cafeterias and food processing units.",
+              "img": "https://apexfiresafety.pk/wp-content/uploads/2026/11/Wet-Chemical-Fire-Extinguisher-1.webp"
+            }
+          ]
+        }
+      ]
+    } };
+  }
+}
+</script>
+</body>
+</html>
